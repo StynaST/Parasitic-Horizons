@@ -3,15 +3,11 @@ filename = "!mixinbooter-10.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G1ckZuWK/versions/PZYBy1vc/%21mixinbooter-10.7.jar"
-hash-format = "sha512"
-hash = "a71dd51da4c44f934c12b7d329b3480df0829266fe3d936f348868b6095007d635f9b1aa65639031ee8500e7c36c1b3607e82e0fc7dc64be5990b14795ae02bc"
+hash-format = "sha1"
+hash = "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "G1ckZuWK"
-version = "PZYBy1vc"
-
 [update.curseforge]
 file-id = 7049694
 project-id = 419286
