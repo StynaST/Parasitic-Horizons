@@ -3,11 +3,15 @@ filename = "supermartijn642configlib-1.1.8-forge-mc1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "49f6b461ff22ad8e23bb99679c1f64eee85ee958"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/IJL4TGRd/supermartijn642configlib-1.1.8-forge-mc1.12.jar"
+hash-format = "sha512"
+hash = "2d495cc90642860af0263899645910c75c42bac5fb9631689f3212c47d30669bd90238ebcd6079afd2d935825b7a63b2f45e1678fc40f35e323e396658e67c28"
 
 [update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "IJL4TGRd"
+
 [update.curseforge]
 file-id = 4715393
 project-id = 438332

@@ -3,11 +3,15 @@ filename = "valkyrielib-1.12.2-2.0.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e640e231cb83ea9ff7cda8710e6d7c44467b9658"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/58d5Rm2F/versions/FeARGLGL/valkyrielib-1.12.2-2.0.20.1.jar"
+hash-format = "sha512"
+hash = "e1480f41893a3eac09835198a880d2462eaa89ebd22c5257f1ae35cddfe7398835fd8b3fb9c077198ecce772bb8ede8e64a0aa3e8fb9f5a8a73089b30c80c780"
 
 [update]
+[update.modrinth]
+mod-id = "58d5Rm2F"
+version = "FeARGLGL"
+
 [update.curseforge]
 file-id = 2691542
 project-id = 245480

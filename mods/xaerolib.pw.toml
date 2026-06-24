@@ -3,11 +3,15 @@ filename = "xaerolib-forge-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e7132d646d330d28a973543a4ba96ff94944af5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZaQIxZKn/versions/2EkudBDY/xaerolib-forge-1.12.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "12e1b23d5a9ce263db81ac023115441f12a697432f6b1746f4b57481f20395169c63466d1fc3239456b294b50967415b533ffcd2a9b362842c257d57e9a2726a"
 
 [update]
+[update.modrinth]
+mod-id = "ZaQIxZKn"
+version = "2EkudBDY"
+
 [update.curseforge]
 file-id = 7579076
 project-id = 1417462

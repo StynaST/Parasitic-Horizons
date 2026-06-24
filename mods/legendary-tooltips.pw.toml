@@ -3,11 +3,15 @@ filename = "LegendaryTooltips-1.12.2-1.1.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f174a9ccf33df0bc1594713ef40dc8c0fce32205"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/8rjxinu8/LegendaryTooltips-1.12.2-1.1.11.jar"
+hash-format = "sha512"
+hash = "75b960af3b0d84731f10d72960a24e4f35e8a67e8410064f065eb5b45bd3a5355023612c92a745b7a12a3d99e3303db8afda78482e81e82418f78a2b145d31fa"
 
 [update]
+[update.modrinth]
+mod-id = "atHH8NyV"
+version = "8rjxinu8"
+
 [update.curseforge]
 file-id = 5734973
 project-id = 532127

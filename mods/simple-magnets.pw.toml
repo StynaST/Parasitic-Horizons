@@ -3,11 +3,15 @@ filename = "simplemagnets-1.1.12-forge-mc1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ad541d2d6e90a0525ad62987d31e4bc92b2743c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/jvqx9L3y/simplemagnets-1.1.12-forge-mc1.12.jar"
+hash-format = "sha512"
+hash = "c52e23ba4742c9928efd1a327682b0bacfb6ff2e7e9e0809eaeab6c41a9e112fb9ac012fd6bd302854b32cf3c026cd0ec9bab85282c304b04649a70acb4e5931"
 
 [update]
+[update.modrinth]
+mod-id = "YyNQVpOu"
+version = "jvqx9L3y"
+
 [update.curseforge]
 file-id = 5822732
 project-id = 394140

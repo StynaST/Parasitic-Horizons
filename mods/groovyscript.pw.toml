@@ -1,13 +1,17 @@
 name = "GroovyScript"
-filename = "groovyscript-1.3.4.jar"
+filename = "groovyscript-1.4.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c53adbfba5c2a98c2103274abaa6a348087a03c8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GJaDRTrb/versions/mkViescX/groovyscript-1.4.3.jar"
+hash-format = "sha512"
+hash = "61c6d6061a9a4ddeccaa24bdafb1bfa16ff8982daae30436cb19e88ab1e79608e347efdeeae4ef6bf1d4bb1d6f75008ef84692c8dc62d718e427786bc29ec226"
 
 [update]
+[update.modrinth]
+mod-id = "GJaDRTrb"
+version = "mkViescX"
+
 [update.curseforge]
-file-id = 7470234
+file-id = 7925117
 project-id = 687577

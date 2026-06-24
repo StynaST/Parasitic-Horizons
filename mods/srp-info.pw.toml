@@ -1,13 +1,17 @@
 name = "SRP-Info"
 filename = "srp-info-0.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a73b72f0744d73f283340db44a32a78fa22f8af8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yR9xygrD/versions/iR21atIS/srp-info-0.1.0.jar"
+hash-format = "sha512"
+hash = "04ae0d0e2a144047061a6ea7fef72362f189e85080a65abbf20e22df5a73efada407e5dc7e6e3a6bdc867854af3921121f30f3b938bf8d0108bb42c3e7e1d2cd"
 
 [update]
+[update.modrinth]
+mod-id = "yR9xygrD"
+version = "iR21atIS"
+
 [update.curseforge]
 file-id = 7654573
 project-id = 1467468

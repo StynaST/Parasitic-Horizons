@@ -1,0 +1,27 @@
+name: Export modpacks
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - run: |
+          mkdir dist
+          go run github.com/packwiz/packwiz@latest modrinth export -o "dist/parasitic-horizons-${GITHUB_REF_NAME}.mrpack"
+          go run github.com/packwiz/packwiz@latest curseforge export -o "dist/parasitic-horizons-${GITHUB_REF_NAME}.zip"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: modpacks
+          path: dist/*

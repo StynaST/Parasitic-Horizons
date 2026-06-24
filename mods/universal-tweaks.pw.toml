@@ -1,13 +1,17 @@
 name = "Universal Tweaks"
-filename = "UniversalTweaks-1.12.2-1.18.0.jar"
+filename = "UniversalTweaks-1.12.2-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bb54c9dc58dac10549552e3cf84912ac5c95800f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s32LssQX/versions/AQqRQW6a/UniversalTweaks-1.12.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "1aae412c61f86b354bfd6fe442f1b5de800740008d08345cbbb3430ec0e3881702afca572c5006df69b518df936a86be3fc3ca677b1443a3471d461e1446f940"
 
 [update]
+[update.modrinth]
+mod-id = "s32LssQX"
+version = "AQqRQW6a"
+
 [update.curseforge]
-file-id = 7403701
+file-id = 8181251
 project-id = 705000

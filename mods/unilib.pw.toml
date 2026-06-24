@@ -1,13 +1,17 @@
 name = "UniLib"
-filename = "UniLib-1.2.0+1.12.2-forge.jar"
+filename = "UniLib-1.2.1+1.12.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7cb336e5fedf6ed4cea500410c5a13f81146116d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/uTDaGwk5/UniLib-1.2.1%2B1.12.2-forge.jar"
+hash-format = "sha512"
+hash = "18b381ae2e95cfac2207ca5e6fc832c15fee6ea9807becaac7643a06a5a5f123d73ea544f93eed10e18b96e66998843e43fac6334c6712fc3e54729cff9aa999"
 
 [update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "uTDaGwk5"
+
 [update.curseforge]
-file-id = 7145693
+file-id = 7704156
 project-id = 1056812

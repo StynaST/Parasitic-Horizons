@@ -3,11 +3,15 @@ filename = "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d8853dbd60fd050709d2d687d875cb0d93806e92"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/Nmo9ggyx/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
+hash-format = "sha512"
+hash = "e7c53957dacc9ab66b44315df77dd63497a35f1e8610de0dc6ed8b80d37d778085802d5736e96e059c29d234ec142f9167c90d9ced31120999f6921827e68841"
 
 [update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "Nmo9ggyx"
+
 [update.curseforge]
 file-id = 4514895
 project-id = 410295

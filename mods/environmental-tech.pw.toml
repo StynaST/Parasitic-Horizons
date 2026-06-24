@@ -3,11 +3,15 @@ filename = "environmentaltech-1.12.2-2.0.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2505c74c38e7083448a9473a7fba4713d9d620c1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dGdhZiPO/versions/k48mmbV0/environmentaltech-1.12.2-2.0.20.1.jar"
+hash-format = "sha512"
+hash = "2c7ee62af9d726205185542120fbf534e9c515cb6e86fe13f0fc1b6439dfd51b2b4e5088333bbb34fb48b27cfa50f6584ba1793201631548b78aeb6487e2fc6e"
 
 [update]
+[update.modrinth]
+mod-id = "dGdhZiPO"
+version = "k48mmbV0"
+
 [update.curseforge]
 file-id = 2691536
 project-id = 245453
