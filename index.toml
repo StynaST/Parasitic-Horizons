@@ -197,10 +197,6 @@ file = "groovy/docs/RecipeManager.md"
 hash = "b4d8212e342815e812a842b6ee392879d18a9a65728f13c2dea7de89fb9b84dc"
 
 [[files]]
-file = "groovy/postInit/mods/advancedrocketry.groovy"
-hash = "71f1a68f61b17b906b64334bf7297e5cf439e6b6375850433ef277087a19457d"
-
-[[files]]
 file = "groovy/postInit/mods/applied.groovy"
 hash = "8e91461eef851d8b02329aa8989442b7620d4b2278a457090f509915f197c87a"
 
