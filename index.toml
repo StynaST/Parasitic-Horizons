@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "86911524f9e4e67ee3d688614cbf69e64c7cb9728acf9de8a7db1b012b3f94d1"
+hash = "d51ac3fdfbcee986ed6bd399935ee92fefce44160acf5a74e6e411b397ef7032"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
-hash = "434c80e0fe3cffa6503fc9777cc70ddf8be7c8ad0c225457e1d8d6218f75cb4d"
+hash = "1c5dbb495112936cbddac74df5ed6841ca07a595d4d416819512bbdb7c427504"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "5af609c00b03834f7986bed62ef41e649229cd6a7966419e98f0fcbc92a7b54e"
+hash = "967ba80ae1e8c6289072a061d8942810db826897bc6c0d069fd1281a59b02c90"
 metafile = true
 
 [[files]]
