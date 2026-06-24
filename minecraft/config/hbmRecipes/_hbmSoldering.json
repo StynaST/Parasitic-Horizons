@@ -117,24 +117,6 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",16,6],
-        ["item","hbm:circuit",48,2],
-        ["item","hbm:circuit",1,18]
-      ],
-      "pcb": [
-        ["item","hbm:circuit",1,12],
-        ["item","hbm:upgrade_speed_3"]
-      ],
-      "solder": [
-        ["dict","wireFineLead",24]
-      ],
-      "fluid": ["PERFLUOROMETHYL",4000],
-      "output": ["hbm:circuit",1,14],
-      "duration": 600,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
         ["item","hbm:circuit",16,16],
         ["item","hbm:circuit",48,6],
         ["item","hbm:circuit",8,18]
@@ -392,6 +374,86 @@
       "fluid": ["SOLVENT",500],
       "output": ["hbm:upgrade_afterburn_3"],
       "duration": 400,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:circuit",3,5]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",1,9],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [
+        ["dict","wireFineLead",4]
+      ],
+      "output": ["hbmspace:circuit",1,1],
+      "duration": 300,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:circuit",2,5]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",16,3]
+      ],
+      "solder": [
+        ["dict","wireFineMingrade",4]
+      ],
+      "output": ["hbmspace:hard_drive"],
+      "duration": 200,
+      "consumption": 250
+    },
+    {
+      "toppings": [
+        ["item","hbm:circuit",4,6],
+        ["item","hbmspace:circuit",4,7],
+        ["item","hbm:circuit",8,1]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",6,3]
+      ],
+      "solder": [
+        ["dict","wireFineLead",12]
+      ],
+      "fluid": ["POLYTHYLENE",1000],
+      "output": ["hbm:circuit",1,11],
+      "duration": 400,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbmspace:circuit",2,7],
+        ["item","hbm:circuit",2,1]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",4,3]
+      ],
+      "solder": [
+        ["dict","wireFineLead",8]
+      ],
+      "fluid": ["POLYTHYLENE",250],
+      "output": ["hbm:circuit",1,9],
+      "duration": 300,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:circuit",16,6],
+        ["item","hbm:circuit",48,2],
+        ["item","hbmspace:circuit",32,3]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",1,12],
+        ["item","hbm:upgrade_speed_3"]
+      ],
+      "solder": [
+        ["dict","wireFineLead",24]
+      ],
+      "fluid": ["PERFLUOROMETHYL",4000],
+      "output": ["hbm:circuit",1,14],
+      "duration": 600,
       "consumption": 25000
     }
   ]

@@ -56,6 +56,12 @@
       "antimatter": 50
     },
     {
+      "particle": ["hbm:block_euphemium"],
+      "input": ["item","hbmspace:bf_log"],
+      "output": ["hbmspace:eu_log"],
+      "antimatter": 0
+    },
+    {
       "particle": ["hbm:part_lithium"],
       "input": ["dict","dustPhosphorus"],
       "output": ["hbm:sulfur"],

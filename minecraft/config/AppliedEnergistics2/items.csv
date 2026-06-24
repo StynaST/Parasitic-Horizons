@@ -649,6 +649,355 @@ ae2stuff:inscriber, Advanced Inscriber
 ae2stuff:wireless, Wireless Connector
 ae2stuff:wireless_kit, Wireless Setup Kit
 ae2stuff:visualiser, Network Visualisation Tool
+hbmspace:rocket_custom, Orbital Rocket
+hbmspace:oxy_plss, PLSS
+hbmspace:hard_drive, Empty Hard Drive
+hbmspace:hard_drive_full:0, Hard Drive
+hbmspace:hard_drive_full:1, Hard Drive
+hbmspace:hard_drive_full:2, Hard Drive
+hbmspace:hard_drive_full:3, Hard Drive
+hbmspace:hard_drive_full:4, Hard Drive
+hbmspace:hard_drive_full:5, Hard Drive
+hbmspace:hard_drive_full:6, Hard Drive
+hbmspace:hard_drive_full:7, Hard Drive
+hbmspace:hard_drive_full:8, Hard Drive
+hbmspace:hard_drive_full:9, Hard Drive
+hbmspace:hard_drive_full:10, Hard Drive
+hbmspace:circuit:0, Printed GaAs Wafer
+hbmspace:circuit:1, Avionics Circuit Board
+hbmspace:circuit:2, Avionics Unit
+hbmspace:circuit:3, Lanthanium Capacitor
+hbmspace:circuit:4, Drive Processor (Tier 1)
+hbmspace:circuit:5, Drive Processor (Tier 2)
+hbmspace:circuit:6, Drive Processor (Tier 3)
+hbmspace:circuit:7, GaAs Microchip
+hbmspace:circuit:8, Hafnium Microchip
+hbmspace:circuit:9, Molysite-Etched Microchip
+hbmspace:transporter_linker, Transporter Pad Linker
+hbmspace:rp_f_20_12, Size 20 12m Liquid Fuel Fuselage
+hbmspace:rp_f_20_6, Size 20 6m Liquid Fuel Fuselage
+hbmspace:rp_f_20_3, Size 20 3m Liquid Fuel Fuselage
+hbmspace:rp_f_20_1, Size 20 1m Liquid Fuel Fuselage
+hbmspace:rp_l_20, Landing Legs
+hbmspace:rp_c_20, Landing Capsule
+hbmspace:rp_sc_20, Orbital Station
+hbmspace:rp_pod_20, Drop Pod
+hbmspace:mp_fuselage_20_hydrazine, Size 20 Hydrazine Fuselage
+hbmspace:mp_thruster_20_methalox, Size 20 Methalox Thruster
+hbmspace:mp_thruster_20_methalox_dual, Size 20 Methalox Twin Thrusters
+hbmspace:mp_thruster_20_methalox_triple, Size 20 Methalox Triple Thrusters
+hbmspace:mp_thruster_20_hydrogen, Size 20 Hydrolox Thruster
+hbmspace:mp_thruster_20_hydrogen_dual, Size 20 Hydrolox Twin Thrusters
+hbmspace:mp_thruster_20_hydrogen_triple, Size 20 Hydrolox Triple Thrusters
+hbmspace:flesh, Flesh
+hbmspace:flesh_wafer, Flesh Patty
+hbmspace:grilled_flesh, Grilled Flesh Patty
+hbmspace:flesh_burger, Flesh Burger
+hbmspace:ingot_magma, Vulcanite Ingot
+hbmspace:crystal_nickel, Nickel Crystals
+hbmspace:crystal_zinc, Zinc Crystal
+hbmspace:crystal_niobium, Niobium Crystals
+hbmspace:nickel_salts, Nickel Salts
+hbmspace:ammonium_nitrate, Ammonium Nitrate
+hbmspace:crystal_mineral, Mineral Crystals
+hbmspace:crystal_cleaned, Cleaned Mineral Crystals
+hbmspace:mineral_dust, Mineral Dust
+hbmspace:chunk_ore:0, Pentlandite Chunk
+hbmspace:chunk_ore:1, Moonstone
+hbmspace:mineral_fragment:0, Acidized Minerals
+hbmspace:mineral_fragment:1, Nitride Minerals
+hbmspace:mineral_fragment:2, Sulfuric Minerals
+hbmspace:mineral_fragment:3, Solvent Minerals
+hbmspace:mineral_fragment:4, Chloride Minerals
+hbmspace:mineral_fragment:5, Schrabidic Minerals
+hbmspace:swarm_member, Dyson Swarm Member
+hbmspace:saltleaf, Saltleaf
+hbmspace:beryllium_mirror, Beryllium Mirror
+hbmspace:teacup_empty, Empty Teacup
+hbmspace:glass_smilk, Strawberry Milk Glass
+hbmspace:strawberry, Strawberry
+hbmspace:mint_leaves, Mint Leaves
+hbmspace:bean_raw, Raw Coffee Bean
+hbmspace:powder_coffee, Ground Coffee
+hbmspace:bean_roast, Roasted Coffee Bean
+hbmspace:teaseeds, Tea Seeds
+hbmspace:tea_leaf, Tea Leaf
+hbmspace:teacup, Cup of Tea
+hbmspace:bottle_honey, Bottle of Honey
+hbmspace:paraffin_seeds, Chlorinated Seeds
+hbmspace:glass_empty, Empty Glass
+hbmspace:cmug_empty, Empty Mug
+hbmspace:lox_tank, Oxygen Tank
+hbmspace:turbine_syngas, Stainless Steel Turbine Blades
+hbmspace:blade_syngas, Stainless Steel Blades
+hbmspace:stick_pvc, PVC Stick
+hbmspace:stick_vinyl, Vinyl Stick
+hbmspace:sat_dyson_relay, Satellite Dyson Relay
+hbmspace:sat_war, item.sat_war.name
+hbmspace:scuttertail, Scuttertail
+hbmspace:rubber_leaf, item.rubber_leaf.name
+hbmspace:pet_leaf, item.pet_leaf.name
+hbmspace:powder_rubber, Rubber Powder
+hbmspace:powder_pvc, PVC Powder
+hbmspace:ingot_nickel, Nickel Ingot
+hbmspace:powder_nickel, Nickel Powder
+hbmspace:nugget_nickel, Nickel Nugget
+hbmspace:plate_nickel, Nickel Plate
+hbmspace:ingot_gallium, Gallium Ingot
+hbmspace:nugget_gallium, Gallium Nugget
+hbmspace:powder_gallium, Gallium Powder
+hbmspace:powder_gallium_tiny, Tiny Pile of Gallium Powder
+hbmspace:powder_wd2004_tiny, Tiny Pile Of Woodemium-2004-Anti-mass Lattice Powder
+hbmspace:powder_wd2004, Woodemium-2004-Anti-mass Lattice Powder
+hbmspace:ingot_tt, Techtactium Ingot
+hbmspace:ingot_ttas, Techtactium Arsenide Ingot
+hbmspace:ingot_gaas, Gallium Arsenide Ingot
+hbmspace:nugget_gaas, Gallium Arsenide Nugget
+hbmspace:billet_gaas, Gallium Arsenide Billet
+hbmspace:nugget_zinc, Zinc Nugget
+hbmspace:ingot_zinc, Zinc Ingot
+hbmspace:powder_zinc, Zinc Powder
+hbmspace:ingot_hafnium, Hafnium Ingot
+hbmspace:nugget_hafnium, Hafnium Nugget
+hbmspace:ingot_iridium, Iridium Ingot
+hbmspace:ingot_stainless, Stainless Steel Ingot
+hbmspace:plate_stainless, Stainless Steel Plate
+hbmspace:ingot_menthol, Menthol Crystals
+hbmspace:nugget_menthol, Menthol Nugget
+hbmspace:billet_menthol, Menthol Billet
+hbmspace:butter, Butter
+hbmspace:min_cream, Minmus Mint Ice Cream
+hbmspace:chocolate_mint_billet, Mint Slice
+hbmspace:ingot_cm242, Curium-242 Ingot
+hbmspace:ingot_cm243, Curium-243 Ingot
+hbmspace:ingot_cm244, Curium-244 Ingot
+hbmspace:ingot_cm245, Curium-245 Ingot
+hbmspace:ingot_cm246, Curium-246 Ingot
+hbmspace:ingot_cm247, Curium-247 Ingot
+hbmspace:ingot_cm_fuel, Ingot of Curium Fuel
+hbmspace:ingot_cm_mix, Reactor-Grade Curium Ingot
+hbmspace:ingot_bk247, Berkelium-247 Ingot
+hbmspace:ingot_cf251, Californium-251 Ingot
+hbmspace:ingot_cf252, Californium-252 Ingot
+hbmspace:ingot_es253, Einsteinium-253 Ingot
+hbmspace:ingot_es255, Einstenium-255 Ingot
+hbmspace:ingot_gwenium, Gwenium Ingot
+hbmspace:billet_bk247, Berkelium-247 Billet
+hbmspace:billet_cm242, Curium-242 Billet
+hbmspace:billet_cm243, Curium-243 Billet
+hbmspace:billet_cm244, Curium-244 Billet
+hbmspace:billet_cm245, Curium-245 Billet
+hbmspace:billet_cm246, Curium-246 Billet
+hbmspace:billet_cm247, Curium-247 Billet
+hbmspace:billet_cf252, Californium-252 Billet
+hbmspace:billet_es253, Einsteinium-253 Billet
+hbmspace:billet_cf251, Californium-251 Billet
+hbmspace:billet_cm_mix, Reactor-Grade Curium Billet
+hbmspace:billet_cm_fuel, Curium Fuel Billet
+hbmspace:billet_red_copper, Minecraft Grade Copper Billet
+hbmspace:divine_shard, item.divine_shard.name
+hbmspace:nugget_lanthanium, Semi-Stable Lanthanium Nugget
+hbmspace:powder_coke:0, Coal Coke Powder
+hbmspace:powder_coke:1, Lignite Coke Powder
+hbmspace:powder_coke:2, Petroleum Coke Powder
+hbmspace:s_cream, Strawberry Ice Cream
+hbmspace:woodemium_briquette, Balefire Infused Woodemium Briquette
+hbmspace:ingot_cn989, Chinesium-989 Ingot
+hbmspace:nugget_cn989, Chinesium-989 Nugget
+hbmspace:billet_cn989, Chinesium-989 Billet
+hbmspace:plate_cn989, Chinesium-989 Plate
+hbmspace:powder_cn989, Chinesium-989 Powder
+hbmspace:ingot_australium_lesser, Lesser Australium Ingot
+hbmspace:ingot_australium_greater, Greater Australium Ingot
+hbmspace:powder_lead, Lead Powder
+hbmspace:nugget_bk247, Berkelium-247 Nugget
+hbmspace:nugget_cm242, Curium-242 Nugget
+hbmspace:nugget_cm243, Curium-243 Nugget
+hbmspace:nugget_cm244, Curium-244 Nugget
+hbmspace:nugget_cm245, Curium-245 Nugget
+hbmspace:nugget_cm246, Curium-246 Nugget
+hbmspace:nugget_cm247, Curium-247 Nugget
+hbmspace:nugget_cf251, Californium-251 Nugget
+hbmspace:nugget_cf252, Californium-252 Nugget
+hbmspace:nugget_cm_fuel, Nugget of Curium Fuel
+hbmspace:nugget_es253, Einsteinium-253 Nugget
+hbmspace:nugget_cm_mix, Reactor-Grade Curium Nugget
+hbmspace:pellet_rtg_americium_depleted, Decayed Americium RTG Pellet
+hbmspace:pellet_rtg_berkelium, Berkelium RTG Pellet
+hbmspace:pellet_rtg_cf251, Californium-251 RTG Pellet
+hbmspace:pellet_rtg_cf252, Californium-252 RTG Pellet
+hbmspace:rag_blood, Blood-Soaked Rag
+hbmspace:ingot_palladium, Palladium Ingot
+hbmspace:animan, Problematic Meal
+hbmspace:flippers, Flippers
+hbmspace:heavy_boots, Occasionally Heavy Boots
+hbmspace:coin_airliner, Airliner Coin
+hbmspace:oxy_pinwheel, Oxygen Pinwheel
+hbmspace:rbmk_pellet_lecm:0, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:1, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:2, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:3, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:4, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:5, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:6, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:7, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:8, LECm Fuel pellet
+hbmspace:rbmk_pellet_lecm:9, LECm Fuel pellet
+hbmspace:rbmk_pellet_bk247:0, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:1, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:2, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:3, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:4, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:5, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:6, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:7, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:8, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_bk247:9, BK-247 Fuel Pellet
+hbmspace:rbmk_pellet_mecm:0, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:1, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:2, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:3, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:4, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:5, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:6, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:7, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:8, MECm Fuel pellet
+hbmspace:rbmk_pellet_mecm:9, MECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:0, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:1, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:2, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:3, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:4, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:5, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:6, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:7, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:8, HECm Fuel pellet
+hbmspace:rbmk_pellet_hecm:9, HECm Fuel pellet
+hbmspace:rbmk_fuel_bk247, BK-247 RBMK Fuel Rod
+hbmspace:rbmk_fuel_lecm, LECm RBMK Fuel Rod
+hbmspace:rbmk_fuel_mecm, MECm RBMK Fuel Rod
+hbmspace:rbmk_fuel_hecm, HECm RBMK Fuel Rod
+hbmspace:ball_ferric_clay, Ferric Clay
+hbmspace:flour, Flour
+hbmspace:wand_time, Time Wand
+hbmspace:atmosphere_scanner, Atmosphere Scanner
+hbmspace:record_gs, item.record_gs.name
+hbmspace:record_gp, item.record_gp.name
+hbmspace:record_el, item.record_el.name
+hbmspace:moon_rock, Moon Rock
+hbmspace:tumor, Fleshy Mass
+hbmspace:duna_sands, Duna Sand
+hbmspace:duna_cobble, Duna Cobblestone
+hbmspace:duna_rock, Duna Rock
+hbmspace:dry_ice, Dry Ice
+hbmspace:ferric_clay, Ferric Clay
+hbmspace:eve_silt, Eve Silt
+hbmspace:eve_rock, Eve Rock
+hbmspace:laythe_silt, Laythe Silt
+hbmspace:ike_regolith, Ike Regolith
+hbmspace:ike_stone, Ike Stone
+hbmspace:dres_rock, Dres Rock
+hbmspace:moho_regolith, Moho Regolith
+hbmspace:moho_stone, Moho Stone
+hbmspace:minmus_regolith, Minmus Regolith
+hbmspace:minmus_stone, Minmus Stone
+hbmspace:minmus_smooth, Smooth Minmus Rock
+hbmspace:block_nickel, Block of Nickel
+hbmspace:block_osmiridium, Block of Osmiridium
+hbmspace:deco_stainless, Stainless Steel Deco Block
+hbmspace:combat_drop, tile.combat_drop.name
+hbmspace:stone_resource:0, Conglomerate
+hbmspace:stone_resource:1, Calcium
+hbmspace:bromine_block, Alkyl Bromide
+hbmspace:rubber_tall:0, Tall Rubber Plant
+hbmspace:rubber_tall:1, Tall Rubber Plant
+hbmspace:rubber_tall:2, Tall Rubber Plant
+hbmspace:vinyl_sand, Vinyl Sand
+hbmspace:vinyl_vine, Vinyl Vines
+hbmspace:vinyl_log, Hardened Vinyl Log
+hbmspace:pvc_log, PVC Log
+hbmspace:vinyl_planks, Vinyl Planks
+hbmspace:pvc_planks, PVC Planks
+hbmspace:lattice_log, Latticed Log
+hbmspace:bf_log, Balefire Log
+hbmspace:primed_log, Primed Log
+hbmspace:eu_log, Anti-Mass Log
+hbmspace:flesh_block, tile.flesh_block.name
+hbmspace:charred_flesh_block, tile.charred_flesh_block.name
+hbmspace:carbonized_flesh_block, tile.carbonized_flesh_block.name
+hbmspace:machine_lpw2, LPW-2 Station Thruster
+hbmspace:machine_htr3, LPW-3N Station Thruster
+hbmspace:machine_htrf4, HTR-F4 Station Thruster
+hbmspace:machine_htrf4neo, tile.machine_htrf4neo.name
+hbmspace:machine_xenon_thruster, Xenon Station Thruster
+hbmspace:transporter_rocket, Rocket Transporter Pad
+hbmspace:orbital_station, Orbital Station Core
+hbmspace:orbital_station_port, Orbital Station Port
+hbmspace:orbital_station_launcher, Orbital Station Launching Port
+hbmspace:orbital_station_computer, Orbital Station Computer
+hbmspace:machine_stardar, StarDar
+hbmspace:machine_drive_processor, Drive Processor
+hbmspace:machine_rocket_assembly, Vehicle Assembly Base (VAB)
+hbmspace:launch_pad_rocket, Rocket Launch Pad
+hbmspace:machine_vacuum_circuit, Vacuum Solderer
+hbmspace:machine_alkylation, Alkylation Unit
+hbmspace:machine_solar, Solar Panel
+hbmspace:air_vent, Air Vent
+hbmspace:air_scrubber, CO2 Scrubber
+hbmspace:algae_film, Microgravity Algae Film
+hbmspace:hydrobay, Industrial Greenhouse
+hbmspace:machine_cryo_distill, Cryogenic Distillation Machine
+hbmspace:machine_milk_reformer, Dairy Processing Tank
+hbmspace:machine_magma, Magma Drill
+hbmspace:machine_radiator, Steam Radiator
+hbmspace:dish_control, StarDar Remote Access Console
+hbmspace:machine_discharger, Matter Discharging Device (LEGACY)
+hbmspace:machine_atmo_tower, Atmospheric Liquefaction Tower
+hbmspace:machine_atmo_vent, Atmospheric Compressor
+hbmspace:gas_dock, Gas Giant Harvester
+hbmspace:orrery, Orrery
+hbmspace:rbmk_burner, RBMK Fluid Burner
+hbmspace:atmosphere_editor, Atmosphere Editor
+hbmspace:dyson_launcher, Dyson Spinlauncher
+hbmspace:dyson_receiver, Dyson Receiver
+hbmspace:dyson_converter_tu, Dyson Heat Converter
+hbmspace:dyson_converter_he, Dyson Power Converter
+hbmspace:dyson_converter_anatmogenesis, Dyson Anatmogenesis Terraformer
+hbmspace:geysir_electric, Discharge Geyser
+hbmspace:geysir_chloric, DCM Geysir
+hbmspace:sapling:0, Vinyl Sapling
+hbmspace:sapling:1, Plastic Sapling
+hbmspace:laythe_kelp, Laythe Kelp
+hbmspace:plant_tall_laythe:0, Saltgrass
+hbmspace:laythe_seagrass:0, tile.laythe_seagrass_0.name
+hbmspace:laythe_glowgrass:0, tile.laythe_glowgrass_0.name
+hbmspace:crop_strawberry, Strawberries
+hbmspace:crop_mint, Mint
+hbmspace:crop_coffee, Coffee
+hbmspace:crop_tea, Tea
+hbmspace:crop_paraffin, Wax Crop
+hbmspace:laythe_coral:0, Laythe Coral
+hbmspace:laythe_coral:1, Laythe Coral
+hbmspace:laythe_coral:2, Laythe Coral
+hbmspace:laythe_coral:3, Laythe Coral
+hbmspace:laythe_coral:4, Laythe Coral
+hbmspace:laythe_coral_block:0, Block of Laythe Coral
+hbmspace:laythe_coral_block:1, Block of Laythe Coral
+hbmspace:laythe_coral_block:2, Block of Laythe Coral
+hbmspace:laythe_coral_block:3, Block of Laythe Coral
+hbmspace:laythe_coral_block:4, Block of Laythe Coral
+hbmspace:rubber_farmland, Tekto Farmland
+hbmspace:rubber_plant:0, Short Rubber Plant
+hbmspace:rubber_plant:1, Short Rubber Plant
+hbmspace:rubber_plant:2, Short Rubber Plant
+hbmspace:rubber_grass, Rubber Grass
+hbmspace:rubber_leaves, Rubber Leaves
+hbmspace:rubber_silt, Tekto Silt
+hbmspace:pet_leaves, Plastic Leaves
+hbmspace:ccl_block, CCL
+hbmspace:dummy_beam, Integrated Lamp
+hbmspace:furnace, Furnace
+hbmspace:lit_furnace, tile.lit_furnace.name
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -959,6 +1308,42 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Moon Rock
+appliedenergistics2:facade:0, Cable Facade - Fleshy Mass
+appliedenergistics2:facade:0, Cable Facade - Duna Sand
+appliedenergistics2:facade:0, Cable Facade - Duna Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Duna Rock
+appliedenergistics2:facade:0, Cable Facade - Dry Ice
+appliedenergistics2:facade:0, Cable Facade - Ferric Clay
+appliedenergistics2:facade:0, Cable Facade - Eve Silt
+appliedenergistics2:facade:0, Cable Facade - Eve Rock
+appliedenergistics2:facade:0, Cable Facade - Laythe Silt
+appliedenergistics2:facade:0, Cable Facade - Ike Regolith
+appliedenergistics2:facade:0, Cable Facade - Ike Stone
+appliedenergistics2:facade:0, Cable Facade - Dres Rock
+appliedenergistics2:facade:0, Cable Facade - Moho Regolith
+appliedenergistics2:facade:0, Cable Facade - Moho Stone
+appliedenergistics2:facade:0, Cable Facade - Minmus Regolith
+appliedenergistics2:facade:0, Cable Facade - Minmus Stone
+appliedenergistics2:facade:0, Cable Facade - Smooth Minmus Rock
+appliedenergistics2:facade:0, Cable Facade - Block of Nickel
+appliedenergistics2:facade:0, Cable Facade - Block of Osmiridium
+appliedenergistics2:facade:0, Cable Facade - Stainless Steel Deco Block
+appliedenergistics2:facade:0, Cable Facade - Conglomerate
+appliedenergistics2:facade:0, Cable Facade - Vinyl Sand
+appliedenergistics2:facade:0, Cable Facade - Hardened Vinyl Log
+appliedenergistics2:facade:0, Cable Facade - PVC Log
+appliedenergistics2:facade:0, Cable Facade - Vinyl Planks
+appliedenergistics2:facade:0, Cable Facade - PVC Planks
+appliedenergistics2:facade:0, Cable Facade - Latticed Log
+appliedenergistics2:facade:0, Cable Facade - Balefire Log
+appliedenergistics2:facade:0, Cable Facade - Primed Log
+appliedenergistics2:facade:0, Cable Facade - Anti-Mass Log
+appliedenergistics2:facade:0, Cable Facade - Block of Laythe Coral
+appliedenergistics2:facade:0, Cable Facade - Rubber Grass
+appliedenergistics2:facade:0, Cable Facade - Rubber Leaves
+appliedenergistics2:facade:0, Cable Facade - Tekto Silt
+appliedenergistics2:facade:0, Cable Facade - Plastic Leaves
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -973,6 +1358,8 @@ appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
 appliedenergistics2:facade:0, Cable Facade - Glitch Infused Block
 appliedenergistics2:facade:0, Cable Facade - Soot-covered Machine Casing
+appliedenergistics2:facade:0, Cable Facade - Oil Deposit
+appliedenergistics2:facade:0, Cable Facade - Bedrock Oil Deposit
 appliedenergistics2:facade:0, Cable Facade - Infested Dirt
 appliedenergistics2:facade:0, Cable Facade - Infested Log
 appliedenergistics2:facade:0, Cable Facade - Infested Stone
@@ -1301,8 +1688,6 @@ appliedenergistics2:facade:0, Cable Facade - Depth Iron Ore Cluster
 appliedenergistics2:facade:0, Cable Facade - Depth Titanium Ore Cluster
 appliedenergistics2:facade:0, Cable Facade - Depth Tungsten Ore Cluster
 appliedenergistics2:facade:0, Cable Facade - Bedrock Coltan Ore
-appliedenergistics2:facade:0, Cable Facade - Bedrock Oil Deposit
-appliedenergistics2:facade:0, Cable Facade - Oil Deposit
 appliedenergistics2:facade:0, Cable Facade - Empty Oil Deposit
 appliedenergistics2:facade:0, Cable Facade - Tar Sand
 appliedenergistics2:facade:0, Cable Facade - Graphitic Schist
@@ -1397,7 +1782,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Uranium Fuel
 appliedenergistics2:facade:0, Cable Facade - Block of Titanium
 appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Red Copper
-appliedenergistics2:facade:0, Cable Facade - Block of Advanced Alloy
 appliedenergistics2:facade:0, Cable Facade - Block of Tungsten
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminium
 appliedenergistics2:facade:0, Cable Facade - Block of Fluorite
@@ -1532,6 +1916,13 @@ appliedenergistics2:facade:0, Cable Facade - Explosive Charge
 appliedenergistics2:facade:0, Cable Facade - N² Charge
 appliedenergistics2:facade:0, Cable Facade - Nuclear Charge
 appliedenergistics2:facade:0, Cable Facade - Balefire Charge
+appliedenergistics2:facade:0, Cable Facade - Steel Machine Casing
+appliedenergistics2:facade:0, Cable Facade - Steel Sheet
+appliedenergistics2:facade:0, Cable Facade - Motor Block
+appliedenergistics2:facade:0, Cable Facade - Tier 1 Circuit Block
+appliedenergistics2:facade:0, Cable Facade - Neutron Flux Receiver
+appliedenergistics2:facade:0, Cable Facade - Heat Receiver
+appliedenergistics2:facade:0, Cable Facade - Custom Machine Structure Positioning Anchor
 appliedenergistics2:facade:0, Cable Facade - Armor Modification Table
 appliedenergistics2:facade:0, Cable Facade - Weapon Modification Table
 appliedenergistics2:facade:0, Cable Facade - Ash
@@ -1925,24 +2316,6 @@ deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:simulation_chamber, Simulation Chamber
 deepmoblearning:extraction_chamber, Loot Fabricator
 deepmoblearning:trial_keystone, Trial Keystone
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -2063,50 +2436,149 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-srparasites:infested_furnace, Infested Furnace
-srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
-srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
-srparasites:parasiterubbleslabhalf:2, Hivestone Slab
-srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
-srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
-srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
-srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
-srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
-srparasites:parasitestainslabhalf:0, Hivesoil Slab
-srparasites:parasitestainslabhalf:1, Visceral Mud Slab
-srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
-srparasites:parasitestainslabhalf:3, Compressed Artery Slab
-srparasites:parasitestainslabhalf:4, Mycelium Network Slab
-srparasites:parasitestainslabhalf:5, Contusion Slab
-srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
-srparasites:relay_base, Relay Terminal §l|§r §oBottom
-srparasites:relay_middle, Relay Structure §l|§r §oMiddle
-srparasites:relay_roof, Relay Antennas §l|§r §oTop
-srparasites:relaycontroller, Relay Controller
-srparasites:flesh_stairs, Flesh Plank Stairs
-srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
-srparasites:harleskinn_stairs, Harleskinn Stairs
-srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
-srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
-srparasites:goth_planks_stairs, Goth Planks Stairs
-srparasites:infested_planks_stairs, Infested Planks Stairs
-srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
-srparasites:consumed_planks_stairs, Consumed Plank Stairs
-srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
-srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
-srparasites:infested_stone_stairs, Infested Stone Stairs
-srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
-srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
-srparasites:deadhead_plank_stairs, Deadhead Stairs
-srparasites:residue_stairs, Residue Brick Stairs
-srparasites:harleskinn_fence, Harleskinn Fence
-srparasites:infested_fence, Infested Fence
-srparasites:deadhead_fence, Deadhead Fence
-srparasites:goth_fence, Goth Fence
-srparasites:consumed_fence, Consumed Fence
-srparasites:bruisewood_fence, Bruisewood Fence
-srparasites:flesh_fence, Flesh Fence
-srparasites:cooked_flesh_fence, Cooked Flesh Fence
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
+hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
+hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
+hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
+hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
+hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
+hbm:mp_stability_15_flat, Size 15 Flat Fins
+hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
+hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
+hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
+hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
+hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
+hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
+hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
+hbm:mp_warhead_15_turbine, Size 15 Jet Engine
+hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
+hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
+hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
+hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
+hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
+hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
+hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_c_1, Tier 1 Missile Targeting Circuit
+hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
+hbm:mp_c_3, Tier 3 Missile Targeting Circuit
+hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
+hbm:mp_stability_10_flat, Size 10 Flat Fins
+hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
+hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
+hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
+hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
+hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
+hbm:mp_stability_10_space, Size 10 Space Fins
+hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
+hbm:mp_c_2, Tier 2 Missile Targeting Circuit
+hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
+hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
+hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
+hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
+hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
+hbm:mp_warhead_15_n2, Size 15 N² Mine
+hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
+hbm:mp_warhead_10_he, Size 10 HE Warhead
+hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
+hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
+hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
+hbm:mp_c_4, Tier 4 Missile Targeting Circuit
+hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
+hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
+hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
+hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
+hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
+hbm:mp_warhead_15_he, Size 15 HE Warhead
+hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
+hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
+hbm:mp_c_5, Tier 5 Missile Targeting Circuit
+hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
+hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
+hbm:mp_stability_15_thin, Size 15 Thin Fins
+hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
+hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
+hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
+hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
+hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
+hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
+hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
+hbm:mp_stability_10_cruise, Size 10 Cruise Fins
+hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
+hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
+hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
+hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
+hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
+hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
+hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
+hbm:mp_warhead_15_balefire, Size 15 BF Warhead
+hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
+hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
+hbmspace:insert_cmb, CMB Insert
+hbm:ore_oil, Oil Deposit
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -2613,6 +3085,50 @@ srparasites:hijacked_iron_leggings, Hijacked Iron Leggings
 srparasites:hijacked_iron_boots, Hijacked Iron Boots
 srparasites:discthree, §bSerenity
 srparasites:thornshade_decanter, §5Thornshade Decanter
+srparasites:infested_furnace, Infested Furnace
+srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
+srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
+srparasites:parasiterubbleslabhalf:2, Hivestone Slab
+srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
+srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
+srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
+srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
+srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
+srparasites:parasitestainslabhalf:0, Hivesoil Slab
+srparasites:parasitestainslabhalf:1, Visceral Mud Slab
+srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
+srparasites:parasitestainslabhalf:3, Compressed Artery Slab
+srparasites:parasitestainslabhalf:4, Mycelium Network Slab
+srparasites:parasitestainslabhalf:5, Contusion Slab
+srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
+srparasites:relay_base, Relay Terminal §l|§r §oBottom
+srparasites:relay_middle, Relay Structure §l|§r §oMiddle
+srparasites:relay_roof, Relay Antennas §l|§r §oTop
+srparasites:relaycontroller, Relay Controller
+srparasites:flesh_stairs, Flesh Plank Stairs
+srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
+srparasites:harleskinn_stairs, Harleskinn Stairs
+srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
+srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
+srparasites:goth_planks_stairs, Goth Planks Stairs
+srparasites:infested_planks_stairs, Infested Planks Stairs
+srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
+srparasites:consumed_planks_stairs, Consumed Plank Stairs
+srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
+srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
+srparasites:infested_stone_stairs, Infested Stone Stairs
+srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
+srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
+srparasites:deadhead_plank_stairs, Deadhead Stairs
+srparasites:residue_stairs, Residue Brick Stairs
+srparasites:harleskinn_fence, Harleskinn Fence
+srparasites:infested_fence, Infested Fence
+srparasites:deadhead_fence, Deadhead Fence
+srparasites:goth_fence, Goth Fence
+srparasites:consumed_fence, Consumed Fence
+srparasites:bruisewood_fence, Bruisewood Fence
+srparasites:flesh_fence, Flesh Fence
+srparasites:cooked_flesh_fence, Cooked Flesh Fence
 techguns:basicmachine:0, Ammo Press
 techguns:basicmachine:1, Metal Press
 techguns:basicmachine:2, Chemical Laboratory
@@ -3751,7 +4267,6 @@ hbm:ore_bedrock_coltan, Bedrock Coltan Ore
 hbm:ore_bedrock_oil, Bedrock Oil Deposit
 hbm:ore_bedrock_block, Bedrock Ore
 hbm:ore_volcano, Geothermal Vent
-hbm:ore_oil, Oil Deposit
 hbm:ore_oil_empty, Empty Oil Deposit
 hbm:ore_oil_sand, Tar Sand
 hbm:stone_gneiss, Graphitic Schist
@@ -3822,6 +4337,8 @@ hbm:deco_toaster:2, Broken Toaster
 hbm:filing_cabinet:0, Dusty Filing Cabinet
 hbm:filing_cabinet:1, Steel Filing Cabinet
 hbm:dungeon_spawner, tile.dungeon_spawner.name
+hbm:vending_machine:0, Vending Machine
+hbm:vending_machine:1, Vending Machine
 hbm:brick_dungeon, Berzelianite Bricks
 hbm:brick_dungeon_flat, Berzelianite Block
 hbm:brick_dungeon_tile, Berzelianite Tile
@@ -3848,7 +4365,6 @@ hbm:block_uranium_fuel, Block of Uranium Fuel
 hbm:block_titanium, Block of Titanium
 hbm:block_copper, Block of Copper
 hbm:block_red_copper, Block of Red Copper
-hbm:block_advanced_alloy, Block of Advanced Alloy
 hbm:block_tungsten, Block of Tungsten
 hbm:block_aluminium, Block of Aluminium
 hbm:block_fluorite, Block of Fluorite
@@ -4002,6 +4518,8 @@ hbm:plant_flower:2, Mustard Willow
 hbm:plant_flower:3, Mustard Willow
 hbm:plant_flower:4, Deadly Nightshade
 hbm:plant_flower:5, Tobacco Plant
+hbm:plant_flower:6, Wild Strawberries
+hbm:plant_flower:7, Wild Mint
 hbm:plant_tall:0, Hemp
 hbm:plant_tall:1, Hemp
 hbm:plant_tall:2, tile.plant_tall.mustard_willow_2.name
@@ -4049,10 +4567,8 @@ hbm:sellafield:2, Boiling Sellafite
 hbm:sellafield:3, Blazing Sellafite
 hbm:sellafield:4, Infernal Sellafite
 hbm:sellafield:5, Sellafite-Corium
-hbm:geysir_water, Water Geysir
-hbm:geysir_chlorine, Cloud Geysir
-hbm:geysir_vapor, Vapor Geysir
-hbm:geysir_nether, Magma Geysir
+hbm:geysir_chlorine, Chlorine Geyser
+hbm:geysir_nether, Volcanic Geyser
 hbm:block_yellowcake, Block of Yellowcake
 hbm:block_starmetal, §9Block of Starmetal§r
 hbm:block_polymer, Block of Polymer
@@ -4299,7 +4815,36 @@ hbm:machine_uf6_tank, Uranium Hexafluoride Tank
 hbm:machine_puf6_tank, Plutonium Hexafluoride Tank
 hbm:machine_fluidtank, Tank
 hbm:machine_bat9000, Big-Ass Tank 9000
+hbm:machine_bigasstank, Big-Ass Tank
 hbm:machine_orbus, Heavy Magnetic Storage Tank
+hbm:cm_block:0, Steel Machine Casing
+hbm:cm_block:1, Bronze Machine Casing
+hbm:cm_block:2, Desh Machine Casing
+hbm:cm_block:3, Technetium Steel Machine Casing
+hbm:cm_sheet:0, Steel Sheet
+hbm:cm_sheet:1, Bronze Sheet
+hbm:cm_sheet:2, Desh Sheet
+hbm:cm_sheet:3, Technetium Steel Sheet
+hbm:cm_engine:0, Motor Block
+hbm:cm_engine:1, Desh Motor Block
+hbm:cm_engine:2, Bismuth Motor Block
+hbm:cm_tank:0, Steel Tank
+hbm:cm_tank:1, Bronze Tank
+hbm:cm_tank:2, Desh Tank
+hbm:cm_tank:3, Technetium Steel Tank
+hbm:cm_circuit:0, Tier 1 Circuit Block
+hbm:cm_circuit:1, Tier 2 Circuit Block
+hbm:cm_circuit:2, Tier 3 Circuit Block
+hbm:cm_circuit:3, Tier 4 Circuit Block
+hbm:cm_circuit:4, Tier 5 Circuit Block
+hbm:cm_port:0, Steel Port
+hbm:cm_port:1, Bronze Port
+hbm:cm_port:2, Desh Port
+hbm:cm_port:3, Technetium Steel Port
+hbm:cm_flux, Neutron Flux Receiver
+hbm:cm_heat, Heat Receiver
+hbm:custom_machine:100, Paper Press
+hbm:custom_machine_anchor, Custom Machine Structure Positioning Anchor
 hbm:machine_armor_table, Armor Modification Table
 hbm:machine_weapon_table, Weapon Modification Table
 hbm:turret_arty, Artillery Turret "Greg"
@@ -4422,11 +4967,11 @@ hbm:machine_ammo_press, Ammo Press
 hbm:machine_zirnox, ZIRNOX Nuclear Reactor
 hbm:zirnox_destroyed, Destroyed ZIRNOX
 hbm:machine_controller, Reactor Remote Control Block
-hbm:machine_difurnace_on, Blast Furnace
-hbm:machine_difurnace_off, Blast Furnace
-hbm:machine_difurnace_ext, Blast Furnace Extension
-hbm:machine_difurnace_rtg_on, Nuclear Blast Furnace
-hbm:machine_difurnace_rtg_off, Nuclear Blast Furnace
+hbm:machine_difurnace_on, Blast Furnace (LEGACY)
+hbm:machine_difurnace_off, Blast Furnace (LEGACY)
+hbm:machine_difurnace_ext, Blast Furnace Extension (LEGACY)
+hbm:machine_difurnace_rtg_on, Nuclear Blast Furnace (LEGACY)
+hbm:machine_difurnace_rtg_off, Nuclear Blast Furnace (LEGACY)
 hbm:machine_diesel, Diesel Generator
 hbm:machine_generator, Nuclear Reactor (Old)
 hbm:rbmk_blank, RBMK Structural Column
@@ -4540,6 +5085,7 @@ hbm:machine_centrifuge, Centrifuge
 hbm:machine_gascent, Gas Centrifuge
 hbm:machine_silex, Laser Isotope Separation Chamber (SILEX)
 hbm:machine_rotary_furnace, Rotary Furnace
+hbm:machine_blast_furnace, Blast Furnace
 hbm:machine_fel, FEL
 hbm:machine_crystallizer, Ore Acidizer
 hbm:machine_shredder, Shredder
@@ -4791,6 +5337,7 @@ hbm:radio_torch_logic, Redstone-over-Radio Logic Receiver
 hbm:radio_torch_reader, Redstone-over-Radio Reader
 hbm:radio_torch_controller, Redstone-over-Radio Controller
 hbm:radio_telex, Telex Machine
+hbm:radio_autocal, tile.radio_autocal.name
 hbm:cargo_elevator, Cargo Elevator
 hbm:fluid_duct_mk2:0, Universal Fluid Duct
 hbm:fluid_duct_mk2:1, Universal Fluid Duct
@@ -4871,6 +5418,7 @@ hbm:wand_jigsaw, Structure Wand Block (Jigsaw)
 hbm:wand_logic, Structure Wand Block (Logic)
 hbm:wand_tandem, tile.wand_tandem.name
 hbm:logic_block, Dungeon Action Block
+hbm:logic_block_invis, tile.logic_block_invis.name
 hbm:toxic_block, Stereotypical Green Ooze
 hbm:mud_block, Poisonous Mud
 hbm:acid_block, Acid
@@ -5060,7 +5608,6 @@ hbm:stamp_book:6, Printing Press Stamp (Part 7)
 hbm:stamp_book:7, Printing Press Stamp (Part 8)
 hbm:blades_steel, Steel Shredder Blades
 hbm:blades_titanium, Titanium Shredder Blades
-hbm:blades_advanced_alloy, Advanced Shredder Blades
 hbm:blades_desh, Desh Shredder Blades
 hbm:fuse, Fuse
 hbm:redcoil_capacitor, Redcoil Capacitor
@@ -5258,6 +5805,9 @@ hbm:canister_fuel:81, Canister: Seeding Slurry
 hbm:canister_fuel:83, Canister: Solvent
 hbm:canister_fuel:49, Canister: Fracking Solution
 hbm:canister_fuel:89, Canister: Hydrazine
+hbm:canister_fuel:4014, Canister: Elbow Grease
+hbm:canister_fuel:4015, Canister: N-MASS(III) Tetrahexaethanol
+hbm:canister_fuel:4044, Canister: Blood Fuel
 hbm:canister_napalm, Napalm B
 hbm:gas_empty, Empty Gas Tank
 hbm:gas_full:38, Gas Tank:: Liquid Hydrogen
@@ -5268,6 +5818,7 @@ hbm:gas_full:124, Gas Tank:: Helium-4
 hbm:gas_full:39, Gas Tank:: Liquid Oxygen
 hbm:gas_full:40, Gas Tank:: Xenon Gas
 hbm:gas_full:90, Gas Tank:: Chlorine Gas
+hbm:gas_full:156, Gas Tank:: Flue Gas
 hbm:gas_full:23, Gas Tank:: Natural Gas
 hbm:gas_full:24, Gas Tank:: Petroleum Gas
 hbm:gas_full:94, Gas Tank:: Sour Gas
@@ -5289,6 +5840,7 @@ hbm:cell:34, Antischrabidium Cell
 hbm:cell_balefire, Gaseous Balefire Cell
 hbm:fluid_tank_empty, Empty Universal Fluid Tank
 hbm:fluid_tank_full:152, Universal Fluid Tank: Compressed Air
+hbm:fluid_tank_full:155, Universal Fluid Tank: Hot Air Blast
 hbm:fluid_tank_full:1, Universal Fluid Tank: Water
 hbm:fluid_tank_full:60, Universal Fluid Tank: Heavy Water
 hbm:fluid_tank_full:125, Universal Fluid Tank: Hot Heavy Water
@@ -5351,6 +5903,7 @@ hbm:fluid_tank_full:15, Universal Fluid Tank: Heating Oil
 hbm:fluid_tank_full:96, Universal Fluid Tank: Heavy Heating Oil
 hbm:fluid_tank_full:16, Universal Fluid Tank: Reclaimed Industrial Oil
 hbm:fluid_tank_full:18, Universal Fluid Tank: Engine Lubricant
+hbm:fluid_tank_full:156, Universal Fluid Tank: Flue Gas
 hbm:fluid_tank_full:23, Universal Fluid Tank: Natural Gas
 hbm:fluid_tank_full:107, Universal Fluid Tank: Coker Gas
 hbm:fluid_tank_full:24, Universal Fluid Tank: Petroleum Gas
@@ -5423,8 +5976,69 @@ hbm:fluid_tank_full:132, Universal Fluid Tank: Booster Pheromone
 hbm:fluid_tank_full:133, Universal Fluid Tank: Modified Booster Pheromone
 hbm:fluid_tank_full:89, Universal Fluid Tank: Hydrazine
 hbm:fluid_tank_full:1000, Universal Fluid Tank: Custom Fluid Demo
+hbm:fluid_tank_full:4000, Universal Fluid Tank: Oxygen-Rich Air
+hbm:fluid_tank_full:4001, Universal Fluid Tank: Carbon Tetrachloride
+hbm:fluid_tank_full:4002, Universal Fluid Tank: Chloroethane
+hbm:fluid_tank_full:4003, Universal Fluid Tank: Chlorinated Benzenes
+hbm:fluid_tank_full:4004, Universal Fluid Tank: Vinyl Chloride
+hbm:fluid_tank_full:4005, Universal Fluid Tank: Aqueous Copper
+hbm:fluid_tank_full:4006, Universal Fluid Tank: Aqueous Nickel
+hbm:fluid_tank_full:4007, Universal Fluid Tank: Copper Sulfate
+hbm:fluid_tank_full:4008, Universal Fluid Tank: Brine
+hbm:fluid_tank_full:4009, Universal Fluid Tank: Conglomera
+hbm:fluid_tank_full:4010, Universal Fluid Tank: Halide Gas
+hbm:fluid_tank_full:4011, Universal Fluid Tank: Light Halocarbons
+hbm:fluid_tank_full:4012, Universal Fluid Tank: hbmfluid.lithcarbonate
+hbm:fluid_tank_full:4013, Universal Fluid Tank: Tektonic Crude
+hbm:fluid_tank_full:4014, Universal Fluid Tank: Elbow Grease
+hbm:fluid_tank_full:4015, Universal Fluid Tank: N-MASS(III) Tetrahexaethanol
+hbm:fluid_tank_full:4016, Universal Fluid Tank: N-MASS(II) Driver Fuel
+hbm:fluid_tank_full:4017, Universal Fluid Tank: Scutterblood
+hbm:fluid_tank_full:4018, Universal Fluid Tank: Pertechnetic Acid
+hbm:fluid_tank_full:4019, Universal Fluid Tank: Neon Gas
+hbm:fluid_tank_full:4020, Universal Fluid Tank: Argon Gas
+hbm:fluid_tank_full:4021, Universal Fluid Tank: Krypton Gas
+hbm:fluid_tank_full:4022, Universal Fluid Tank: Coffee
+hbm:fluid_tank_full:4023, Universal Fluid Tank: Tea
+hbm:fluid_tank_full:4024, Universal Fluid Tank: Honey
+hbm:fluid_tank_full:4025, Universal Fluid Tank: Olive Oil
+hbm:fluid_tank_full:4026, Universal Fluid Tank: Fluorine
+hbm:fluid_tank_full:4027, Universal Fluid Tank: Duna Air
+hbm:fluid_tank_full:4028, Universal Fluid Tank: Tekto Air
+hbm:fluid_tank_full:4029, Universal Fluid Tank: Jool Air
+hbm:fluid_tank_full:4030, Universal Fluid Tank: Sarnus Air
+hbm:fluid_tank_full:4031, Universal Fluid Tank: Urlum Air
+hbm:fluid_tank_full:4032, Universal Fluid Tank: Neidon Air
+hbm:fluid_tank_full:4033, Universal Fluid Tank: Milk
+hbm:fluid_tank_full:4034, Universal Fluid Tank: Strawberry Milk
+hbm:fluid_tank_full:4035, Universal Fluid Tank: Eve Air
+hbm:fluid_tank_full:4036, Universal Fluid Tank: Potassium Permanganate Solution
+hbm:fluid_tank_full:4037, Universal Fluid Tank: Chloromethane
+hbm:fluid_tank_full:4038, Universal Fluid Tank: Methanol
+hbm:fluid_tank_full:4039, Universal Fluid Tank: Alkyl Bromide
+hbm:fluid_tank_full:4040, Universal Fluid Tank: Methylene
+hbm:fluid_tank_full:4041, Universal Fluid Tank: Polyethylene
+hbm:fluid_tank_full:4042, Universal Fluid Tank: Hydrochloric Acid
+hbm:fluid_tank_full:4043, Universal Fluid Tank: Ammonia
+hbm:fluid_tank_full:4044, Universal Fluid Tank: Blood Fuel
+hbm:fluid_tank_full:4045, Universal Fluid Tank: Mineral Slurry
+hbm:fluid_tank_full:4046, Universal Fluid Tank: Liquid Nitrogen
+hbm:fluid_tank_full:4047, Universal Fluid Tank: Evaporated Milk
+hbm:fluid_tank_full:4048, Universal Fluid Tank: Condensed Milk
+hbm:fluid_tank_full:4049, Universal Fluid Tank: Heavy Whipping Cream
+hbm:fluid_tank_full:4050, Universal Fluid Tank: Dicyanoacetylene
+hbm:fluid_tank_full:4051, Universal Fluid Tank: Morkite
+hbm:fluid_tank_full:4052, Universal Fluid Tank: Morkine
+hbm:fluid_tank_full:4053, Universal Fluid Tank: Morkite Slurry
+hbm:fluid_tank_full:4055, Universal Fluid Tank: Uranium Bromide
+hbm:fluid_tank_full:4056, Universal Fluid Tank: Plutonium Bromide
+hbm:fluid_tank_full:4057, Universal Fluid Tank: Schrabidium Bromide
+hbm:fluid_tank_full:4058, Universal Fluid Tank: Thorium Bromide
+hbm:fluid_tank_full:4063, Universal Fluid Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_full:4065, Universal Fluid Tank: hbmfluid.lithydro
 hbm:fluid_tank_lead_empty, Empty Hazardous Material Tank
 hbm:fluid_tank_lead_full:152, Hazardous Material Tank: Compressed Air
+hbm:fluid_tank_lead_full:155, Hazardous Material Tank: Hot Air Blast
 hbm:fluid_tank_lead_full:1, Hazardous Material Tank: Water
 hbm:fluid_tank_lead_full:60, Hazardous Material Tank: Heavy Water
 hbm:fluid_tank_lead_full:125, Hazardous Material Tank: Hot Heavy Water
@@ -5487,6 +6101,7 @@ hbm:fluid_tank_lead_full:15, Hazardous Material Tank: Heating Oil
 hbm:fluid_tank_lead_full:96, Hazardous Material Tank: Heavy Heating Oil
 hbm:fluid_tank_lead_full:16, Hazardous Material Tank: Reclaimed Industrial Oil
 hbm:fluid_tank_lead_full:18, Hazardous Material Tank: Engine Lubricant
+hbm:fluid_tank_lead_full:156, Hazardous Material Tank: Flue Gas
 hbm:fluid_tank_lead_full:23, Hazardous Material Tank: Natural Gas
 hbm:fluid_tank_lead_full:107, Hazardous Material Tank: Coker Gas
 hbm:fluid_tank_lead_full:24, Hazardous Material Tank: Petroleum Gas
@@ -5561,8 +6176,69 @@ hbm:fluid_tank_lead_full:132, Hazardous Material Tank: Booster Pheromone
 hbm:fluid_tank_lead_full:133, Hazardous Material Tank: Modified Booster Pheromone
 hbm:fluid_tank_lead_full:89, Hazardous Material Tank: Hydrazine
 hbm:fluid_tank_lead_full:1000, Hazardous Material Tank: Custom Fluid Demo
+hbm:fluid_tank_lead_full:4000, Hazardous Material Tank: Oxygen-Rich Air
+hbm:fluid_tank_lead_full:4001, Hazardous Material Tank: Carbon Tetrachloride
+hbm:fluid_tank_lead_full:4002, Hazardous Material Tank: Chloroethane
+hbm:fluid_tank_lead_full:4003, Hazardous Material Tank: Chlorinated Benzenes
+hbm:fluid_tank_lead_full:4004, Hazardous Material Tank: Vinyl Chloride
+hbm:fluid_tank_lead_full:4005, Hazardous Material Tank: Aqueous Copper
+hbm:fluid_tank_lead_full:4006, Hazardous Material Tank: Aqueous Nickel
+hbm:fluid_tank_lead_full:4007, Hazardous Material Tank: Copper Sulfate
+hbm:fluid_tank_lead_full:4008, Hazardous Material Tank: Brine
+hbm:fluid_tank_lead_full:4009, Hazardous Material Tank: Conglomera
+hbm:fluid_tank_lead_full:4010, Hazardous Material Tank: Halide Gas
+hbm:fluid_tank_lead_full:4011, Hazardous Material Tank: Light Halocarbons
+hbm:fluid_tank_lead_full:4012, Hazardous Material Tank: hbmfluid.lithcarbonate
+hbm:fluid_tank_lead_full:4013, Hazardous Material Tank: Tektonic Crude
+hbm:fluid_tank_lead_full:4014, Hazardous Material Tank: Elbow Grease
+hbm:fluid_tank_lead_full:4015, Hazardous Material Tank: N-MASS(III) Tetrahexaethanol
+hbm:fluid_tank_lead_full:4016, Hazardous Material Tank: N-MASS(II) Driver Fuel
+hbm:fluid_tank_lead_full:4017, Hazardous Material Tank: Scutterblood
+hbm:fluid_tank_lead_full:4018, Hazardous Material Tank: Pertechnetic Acid
+hbm:fluid_tank_lead_full:4019, Hazardous Material Tank: Neon Gas
+hbm:fluid_tank_lead_full:4020, Hazardous Material Tank: Argon Gas
+hbm:fluid_tank_lead_full:4021, Hazardous Material Tank: Krypton Gas
+hbm:fluid_tank_lead_full:4022, Hazardous Material Tank: Coffee
+hbm:fluid_tank_lead_full:4023, Hazardous Material Tank: Tea
+hbm:fluid_tank_lead_full:4024, Hazardous Material Tank: Honey
+hbm:fluid_tank_lead_full:4025, Hazardous Material Tank: Olive Oil
+hbm:fluid_tank_lead_full:4026, Hazardous Material Tank: Fluorine
+hbm:fluid_tank_lead_full:4027, Hazardous Material Tank: Duna Air
+hbm:fluid_tank_lead_full:4028, Hazardous Material Tank: Tekto Air
+hbm:fluid_tank_lead_full:4029, Hazardous Material Tank: Jool Air
+hbm:fluid_tank_lead_full:4030, Hazardous Material Tank: Sarnus Air
+hbm:fluid_tank_lead_full:4031, Hazardous Material Tank: Urlum Air
+hbm:fluid_tank_lead_full:4032, Hazardous Material Tank: Neidon Air
+hbm:fluid_tank_lead_full:4033, Hazardous Material Tank: Milk
+hbm:fluid_tank_lead_full:4034, Hazardous Material Tank: Strawberry Milk
+hbm:fluid_tank_lead_full:4035, Hazardous Material Tank: Eve Air
+hbm:fluid_tank_lead_full:4036, Hazardous Material Tank: Potassium Permanganate Solution
+hbm:fluid_tank_lead_full:4037, Hazardous Material Tank: Chloromethane
+hbm:fluid_tank_lead_full:4038, Hazardous Material Tank: Methanol
+hbm:fluid_tank_lead_full:4039, Hazardous Material Tank: Alkyl Bromide
+hbm:fluid_tank_lead_full:4040, Hazardous Material Tank: Methylene
+hbm:fluid_tank_lead_full:4041, Hazardous Material Tank: Polyethylene
+hbm:fluid_tank_lead_full:4042, Hazardous Material Tank: Hydrochloric Acid
+hbm:fluid_tank_lead_full:4043, Hazardous Material Tank: Ammonia
+hbm:fluid_tank_lead_full:4044, Hazardous Material Tank: Blood Fuel
+hbm:fluid_tank_lead_full:4045, Hazardous Material Tank: Mineral Slurry
+hbm:fluid_tank_lead_full:4046, Hazardous Material Tank: Liquid Nitrogen
+hbm:fluid_tank_lead_full:4047, Hazardous Material Tank: Evaporated Milk
+hbm:fluid_tank_lead_full:4048, Hazardous Material Tank: Condensed Milk
+hbm:fluid_tank_lead_full:4049, Hazardous Material Tank: Heavy Whipping Cream
+hbm:fluid_tank_lead_full:4050, Hazardous Material Tank: Dicyanoacetylene
+hbm:fluid_tank_lead_full:4051, Hazardous Material Tank: Morkite
+hbm:fluid_tank_lead_full:4052, Hazardous Material Tank: Morkine
+hbm:fluid_tank_lead_full:4053, Hazardous Material Tank: Morkite Slurry
+hbm:fluid_tank_lead_full:4055, Hazardous Material Tank: Uranium Bromide
+hbm:fluid_tank_lead_full:4056, Hazardous Material Tank: Plutonium Bromide
+hbm:fluid_tank_lead_full:4057, Hazardous Material Tank: Schrabidium Bromide
+hbm:fluid_tank_lead_full:4058, Hazardous Material Tank: Thorium Bromide
+hbm:fluid_tank_lead_full:4063, Hazardous Material Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_lead_full:4065, Hazardous Material Tank: hbmfluid.lithydro
 hbm:fluid_barrel_empty, Empty Fluid Barrel
 hbm:fluid_barrel_full:152, Fluid Barrel: Compressed Air
+hbm:fluid_barrel_full:155, Fluid Barrel: Hot Air Blast
 hbm:fluid_barrel_full:1, Fluid Barrel: Water
 hbm:fluid_barrel_full:60, Fluid Barrel: Heavy Water
 hbm:fluid_barrel_full:125, Fluid Barrel: Hot Heavy Water
@@ -5625,6 +6301,7 @@ hbm:fluid_barrel_full:15, Fluid Barrel: Heating Oil
 hbm:fluid_barrel_full:96, Fluid Barrel: Heavy Heating Oil
 hbm:fluid_barrel_full:16, Fluid Barrel: Reclaimed Industrial Oil
 hbm:fluid_barrel_full:18, Fluid Barrel: Engine Lubricant
+hbm:fluid_barrel_full:156, Fluid Barrel: Flue Gas
 hbm:fluid_barrel_full:23, Fluid Barrel: Natural Gas
 hbm:fluid_barrel_full:107, Fluid Barrel: Coker Gas
 hbm:fluid_barrel_full:24, Fluid Barrel: Petroleum Gas
@@ -5697,9 +6374,70 @@ hbm:fluid_barrel_full:132, Fluid Barrel: Booster Pheromone
 hbm:fluid_barrel_full:133, Fluid Barrel: Modified Booster Pheromone
 hbm:fluid_barrel_full:89, Fluid Barrel: Hydrazine
 hbm:fluid_barrel_full:1000, Fluid Barrel: Custom Fluid Demo
+hbm:fluid_barrel_full:4000, Fluid Barrel: Oxygen-Rich Air
+hbm:fluid_barrel_full:4001, Fluid Barrel: Carbon Tetrachloride
+hbm:fluid_barrel_full:4002, Fluid Barrel: Chloroethane
+hbm:fluid_barrel_full:4003, Fluid Barrel: Chlorinated Benzenes
+hbm:fluid_barrel_full:4004, Fluid Barrel: Vinyl Chloride
+hbm:fluid_barrel_full:4005, Fluid Barrel: Aqueous Copper
+hbm:fluid_barrel_full:4006, Fluid Barrel: Aqueous Nickel
+hbm:fluid_barrel_full:4007, Fluid Barrel: Copper Sulfate
+hbm:fluid_barrel_full:4008, Fluid Barrel: Brine
+hbm:fluid_barrel_full:4009, Fluid Barrel: Conglomera
+hbm:fluid_barrel_full:4010, Fluid Barrel: Halide Gas
+hbm:fluid_barrel_full:4011, Fluid Barrel: Light Halocarbons
+hbm:fluid_barrel_full:4012, Fluid Barrel: hbmfluid.lithcarbonate
+hbm:fluid_barrel_full:4013, Fluid Barrel: Tektonic Crude
+hbm:fluid_barrel_full:4014, Fluid Barrel: Elbow Grease
+hbm:fluid_barrel_full:4015, Fluid Barrel: N-MASS(III) Tetrahexaethanol
+hbm:fluid_barrel_full:4016, Fluid Barrel: N-MASS(II) Driver Fuel
+hbm:fluid_barrel_full:4017, Fluid Barrel: Scutterblood
+hbm:fluid_barrel_full:4018, Fluid Barrel: Pertechnetic Acid
+hbm:fluid_barrel_full:4019, Fluid Barrel: Neon Gas
+hbm:fluid_barrel_full:4020, Fluid Barrel: Argon Gas
+hbm:fluid_barrel_full:4021, Fluid Barrel: Krypton Gas
+hbm:fluid_barrel_full:4022, Fluid Barrel: Coffee
+hbm:fluid_barrel_full:4023, Fluid Barrel: Tea
+hbm:fluid_barrel_full:4024, Fluid Barrel: Honey
+hbm:fluid_barrel_full:4025, Fluid Barrel: Olive Oil
+hbm:fluid_barrel_full:4026, Fluid Barrel: Fluorine
+hbm:fluid_barrel_full:4027, Fluid Barrel: Duna Air
+hbm:fluid_barrel_full:4028, Fluid Barrel: Tekto Air
+hbm:fluid_barrel_full:4029, Fluid Barrel: Jool Air
+hbm:fluid_barrel_full:4030, Fluid Barrel: Sarnus Air
+hbm:fluid_barrel_full:4031, Fluid Barrel: Urlum Air
+hbm:fluid_barrel_full:4032, Fluid Barrel: Neidon Air
+hbm:fluid_barrel_full:4033, Fluid Barrel: Milk
+hbm:fluid_barrel_full:4034, Fluid Barrel: Strawberry Milk
+hbm:fluid_barrel_full:4035, Fluid Barrel: Eve Air
+hbm:fluid_barrel_full:4036, Fluid Barrel: Potassium Permanganate Solution
+hbm:fluid_barrel_full:4037, Fluid Barrel: Chloromethane
+hbm:fluid_barrel_full:4038, Fluid Barrel: Methanol
+hbm:fluid_barrel_full:4039, Fluid Barrel: Alkyl Bromide
+hbm:fluid_barrel_full:4040, Fluid Barrel: Methylene
+hbm:fluid_barrel_full:4041, Fluid Barrel: Polyethylene
+hbm:fluid_barrel_full:4042, Fluid Barrel: Hydrochloric Acid
+hbm:fluid_barrel_full:4043, Fluid Barrel: Ammonia
+hbm:fluid_barrel_full:4044, Fluid Barrel: Blood Fuel
+hbm:fluid_barrel_full:4045, Fluid Barrel: Mineral Slurry
+hbm:fluid_barrel_full:4046, Fluid Barrel: Liquid Nitrogen
+hbm:fluid_barrel_full:4047, Fluid Barrel: Evaporated Milk
+hbm:fluid_barrel_full:4048, Fluid Barrel: Condensed Milk
+hbm:fluid_barrel_full:4049, Fluid Barrel: Heavy Whipping Cream
+hbm:fluid_barrel_full:4050, Fluid Barrel: Dicyanoacetylene
+hbm:fluid_barrel_full:4051, Fluid Barrel: Morkite
+hbm:fluid_barrel_full:4052, Fluid Barrel: Morkine
+hbm:fluid_barrel_full:4053, Fluid Barrel: Morkite Slurry
+hbm:fluid_barrel_full:4055, Fluid Barrel: Uranium Bromide
+hbm:fluid_barrel_full:4056, Fluid Barrel: Plutonium Bromide
+hbm:fluid_barrel_full:4057, Fluid Barrel: Schrabidium Bromide
+hbm:fluid_barrel_full:4058, Fluid Barrel: Thorium Bromide
+hbm:fluid_barrel_full:4063, Fluid Barrel: hbmfluid.gaseous_hydrogen
+hbm:fluid_barrel_full:4065, Fluid Barrel: hbmfluid.lithydro
 hbm:fluid_barrel_infinite, Infinite Fluid Barrel
 hbm:fluid_pack_empty, Large Fluid Container
 hbm:fluid_pack_full:152, Packaged Compressed Air
+hbm:fluid_pack_full:155, Packaged Hot Air Blast
 hbm:fluid_pack_full:1, Packaged Water
 hbm:fluid_pack_full:60, Packaged Heavy Water
 hbm:fluid_pack_full:125, Packaged Hot Heavy Water
@@ -5762,6 +6500,7 @@ hbm:fluid_pack_full:15, Packaged Heating Oil
 hbm:fluid_pack_full:96, Packaged Heavy Heating Oil
 hbm:fluid_pack_full:16, Packaged Reclaimed Industrial Oil
 hbm:fluid_pack_full:18, Packaged Engine Lubricant
+hbm:fluid_pack_full:156, Packaged Flue Gas
 hbm:fluid_pack_full:23, Packaged Natural Gas
 hbm:fluid_pack_full:107, Packaged Coker Gas
 hbm:fluid_pack_full:24, Packaged Petroleum Gas
@@ -5834,6 +6573,66 @@ hbm:fluid_pack_full:132, Packaged Booster Pheromone
 hbm:fluid_pack_full:133, Packaged Modified Booster Pheromone
 hbm:fluid_pack_full:89, Packaged Hydrazine
 hbm:fluid_pack_full:1000, Packaged Custom Fluid Demo
+hbm:fluid_pack_full:4000, Packaged Oxygen-Rich Air
+hbm:fluid_pack_full:4001, Packaged Carbon Tetrachloride
+hbm:fluid_pack_full:4002, Packaged Chloroethane
+hbm:fluid_pack_full:4003, Packaged Chlorinated Benzenes
+hbm:fluid_pack_full:4004, Packaged Vinyl Chloride
+hbm:fluid_pack_full:4005, Packaged Aqueous Copper
+hbm:fluid_pack_full:4006, Packaged Aqueous Nickel
+hbm:fluid_pack_full:4007, Packaged Copper Sulfate
+hbm:fluid_pack_full:4008, Packaged Brine
+hbm:fluid_pack_full:4009, Packaged Conglomera
+hbm:fluid_pack_full:4010, Packaged Halide Gas
+hbm:fluid_pack_full:4011, Packaged Light Halocarbons
+hbm:fluid_pack_full:4012, Packaged hbmfluid.lithcarbonate
+hbm:fluid_pack_full:4013, Packaged Tektonic Crude
+hbm:fluid_pack_full:4014, Packaged Elbow Grease
+hbm:fluid_pack_full:4015, Packaged N-MASS(III) Tetrahexaethanol
+hbm:fluid_pack_full:4016, Packaged N-MASS(II) Driver Fuel
+hbm:fluid_pack_full:4017, Packaged Scutterblood
+hbm:fluid_pack_full:4018, Packaged Pertechnetic Acid
+hbm:fluid_pack_full:4019, Packaged Neon Gas
+hbm:fluid_pack_full:4020, Packaged Argon Gas
+hbm:fluid_pack_full:4021, Packaged Krypton Gas
+hbm:fluid_pack_full:4022, Packaged Coffee
+hbm:fluid_pack_full:4023, Packaged Tea
+hbm:fluid_pack_full:4024, Packaged Honey
+hbm:fluid_pack_full:4025, Packaged Olive Oil
+hbm:fluid_pack_full:4026, Packaged Fluorine
+hbm:fluid_pack_full:4027, Packaged Duna Air
+hbm:fluid_pack_full:4028, Packaged Tekto Air
+hbm:fluid_pack_full:4029, Packaged Jool Air
+hbm:fluid_pack_full:4030, Packaged Sarnus Air
+hbm:fluid_pack_full:4031, Packaged Urlum Air
+hbm:fluid_pack_full:4032, Packaged Neidon Air
+hbm:fluid_pack_full:4033, Packaged Milk
+hbm:fluid_pack_full:4034, Packaged Strawberry Milk
+hbm:fluid_pack_full:4035, Packaged Eve Air
+hbm:fluid_pack_full:4036, Packaged Potassium Permanganate Solution
+hbm:fluid_pack_full:4037, Packaged Chloromethane
+hbm:fluid_pack_full:4038, Packaged Methanol
+hbm:fluid_pack_full:4039, Packaged Alkyl Bromide
+hbm:fluid_pack_full:4040, Packaged Methylene
+hbm:fluid_pack_full:4041, Packaged Polyethylene
+hbm:fluid_pack_full:4042, Packaged Hydrochloric Acid
+hbm:fluid_pack_full:4043, Packaged Ammonia
+hbm:fluid_pack_full:4044, Packaged Blood Fuel
+hbm:fluid_pack_full:4045, Packaged Mineral Slurry
+hbm:fluid_pack_full:4046, Packaged Liquid Nitrogen
+hbm:fluid_pack_full:4047, Packaged Evaporated Milk
+hbm:fluid_pack_full:4048, Packaged Condensed Milk
+hbm:fluid_pack_full:4049, Packaged Heavy Whipping Cream
+hbm:fluid_pack_full:4050, Packaged Dicyanoacetylene
+hbm:fluid_pack_full:4051, Packaged Morkite
+hbm:fluid_pack_full:4052, Packaged Morkine
+hbm:fluid_pack_full:4053, Packaged Morkite Slurry
+hbm:fluid_pack_full:4055, Packaged Uranium Bromide
+hbm:fluid_pack_full:4056, Packaged Plutonium Bromide
+hbm:fluid_pack_full:4057, Packaged Schrabidium Bromide
+hbm:fluid_pack_full:4058, Packaged Thorium Bromide
+hbm:fluid_pack_full:4063, Packaged hbmfluid.gaseous_hydrogen
+hbm:fluid_pack_full:4065, Packaged hbmfluid.lithydro
 hbm:pipette, Pipette
 hbm:pipette_boron, Boron Pipette
 hbm:pipette_laboratory, Laboratory Grade Pipette
@@ -5842,6 +6641,7 @@ hbm:inf_water, Infinite Water Tank
 hbm:inf_water_mk2, Large Infinite Water Tank
 hbm:disperser_canister_empty, Disperser Canister
 hbm:disperser_canister:152, Disperser Canister: Compressed Air
+hbm:disperser_canister:155, Disperser Canister: Hot Air Blast
 hbm:disperser_canister:1, Disperser Canister: Water
 hbm:disperser_canister:60, Disperser Canister: Heavy Water
 hbm:disperser_canister:2, Disperser Canister: Steam
@@ -5870,6 +6670,7 @@ hbm:disperser_canister:139, Disperser Canister: Desulfurized Light Oil
 hbm:disperser_canister:65, Disperser Canister: Cracked Light Oil
 hbm:disperser_canister:93, Disperser Canister: Vacuum Light Oil
 hbm:disperser_canister:18, Disperser Canister: Engine Lubricant
+hbm:disperser_canister:156, Disperser Canister: Flue Gas
 hbm:disperser_canister:23, Disperser Canister: Natural Gas
 hbm:disperser_canister:107, Disperser Canister: Coker Gas
 hbm:disperser_canister:24, Disperser Canister: Petroleum Gas
@@ -5923,6 +6724,53 @@ hbm:disperser_canister:132, Disperser Canister: Booster Pheromone
 hbm:disperser_canister:133, Disperser Canister: Modified Booster Pheromone
 hbm:disperser_canister:89, Disperser Canister: Hydrazine
 hbm:disperser_canister:1000, Disperser Canister: Custom Fluid Demo
+hbm:disperser_canister:4000, Disperser Canister: Oxygen-Rich Air
+hbm:disperser_canister:4001, Disperser Canister: Carbon Tetrachloride
+hbm:disperser_canister:4002, Disperser Canister: Chloroethane
+hbm:disperser_canister:4003, Disperser Canister: Chlorinated Benzenes
+hbm:disperser_canister:4004, Disperser Canister: Vinyl Chloride
+hbm:disperser_canister:4006, Disperser Canister: Aqueous Nickel
+hbm:disperser_canister:4010, Disperser Canister: Halide Gas
+hbm:disperser_canister:4011, Disperser Canister: Light Halocarbons
+hbm:disperser_canister:4012, Disperser Canister: hbmfluid.lithcarbonate
+hbm:disperser_canister:4013, Disperser Canister: Tektonic Crude
+hbm:disperser_canister:4014, Disperser Canister: Elbow Grease
+hbm:disperser_canister:4015, Disperser Canister: N-MASS(III) Tetrahexaethanol
+hbm:disperser_canister:4016, Disperser Canister: N-MASS(II) Driver Fuel
+hbm:disperser_canister:4018, Disperser Canister: Pertechnetic Acid
+hbm:disperser_canister:4019, Disperser Canister: Neon Gas
+hbm:disperser_canister:4020, Disperser Canister: Argon Gas
+hbm:disperser_canister:4021, Disperser Canister: Krypton Gas
+hbm:disperser_canister:4022, Disperser Canister: Coffee
+hbm:disperser_canister:4023, Disperser Canister: Tea
+hbm:disperser_canister:4024, Disperser Canister: Honey
+hbm:disperser_canister:4025, Disperser Canister: Olive Oil
+hbm:disperser_canister:4026, Disperser Canister: Fluorine
+hbm:disperser_canister:4027, Disperser Canister: Duna Air
+hbm:disperser_canister:4028, Disperser Canister: Tekto Air
+hbm:disperser_canister:4029, Disperser Canister: Jool Air
+hbm:disperser_canister:4030, Disperser Canister: Sarnus Air
+hbm:disperser_canister:4031, Disperser Canister: Urlum Air
+hbm:disperser_canister:4032, Disperser Canister: Neidon Air
+hbm:disperser_canister:4033, Disperser Canister: Milk
+hbm:disperser_canister:4034, Disperser Canister: Strawberry Milk
+hbm:disperser_canister:4035, Disperser Canister: Eve Air
+hbm:disperser_canister:4036, Disperser Canister: Potassium Permanganate Solution
+hbm:disperser_canister:4037, Disperser Canister: Chloromethane
+hbm:disperser_canister:4038, Disperser Canister: Methanol
+hbm:disperser_canister:4040, Disperser Canister: Methylene
+hbm:disperser_canister:4041, Disperser Canister: Polyethylene
+hbm:disperser_canister:4042, Disperser Canister: Hydrochloric Acid
+hbm:disperser_canister:4043, Disperser Canister: Ammonia
+hbm:disperser_canister:4044, Disperser Canister: Blood Fuel
+hbm:disperser_canister:4045, Disperser Canister: Mineral Slurry
+hbm:disperser_canister:4046, Disperser Canister: Liquid Nitrogen
+hbm:disperser_canister:4047, Disperser Canister: Evaporated Milk
+hbm:disperser_canister:4048, Disperser Canister: Condensed Milk
+hbm:disperser_canister:4049, Disperser Canister: Heavy Whipping Cream
+hbm:disperser_canister:4050, Disperser Canister: Dicyanoacetylene
+hbm:disperser_canister:4063, Disperser Canister: hbmfluid.gaseous_hydrogen
+hbm:disperser_canister:4065, Disperser Canister: hbmfluid.lithydro
 hbm:glyphid_gland_empty, Glyphid's Fluid Gland
 hbm:glyphid_gland:75, Sulfuric Acid Gland
 hbm:glyphid_gland:132, Booster Pheromone Gland
@@ -5989,10 +6837,10 @@ hbm:titanium_helmet, Titanium Helmet
 hbm:titanium_plate, Titanium Chestplate
 hbm:titanium_legs, Titanium Leggings
 hbm:titanium_boots, Titanium Boots
-hbm:alloy_helmet, Advanced Alloy Helmet
-hbm:alloy_plate, Advanced Alloy Chestplate
-hbm:alloy_legs, Advanced Alloy Leggings
-hbm:alloy_boots, Advanced Alloy Boots
+hbm:alloy_helmet, Advanced Alloy Helmet (LEGACY)
+hbm:alloy_plate, Advanced Alloy Chestplate (LEGACY)
+hbm:alloy_legs, Advanced Alloy Leggings (LEGACY)
+hbm:alloy_boots, Advanced Alloy Boots (LEGACY)
 hbm:cobalt_helmet, Cobalt Helmet
 hbm:cobalt_plate, Cobalt Chestplate
 hbm:cobalt_legs, Cobalt Leggings
@@ -6143,9 +6991,8 @@ hbm:stick_semtex, Stick of Semtex
 hbm:stick_c4, Stick of C-4
 hbm:ingot_steel, Steel Ingot
 hbm:ingot_titanium, Titanium Ingot
-hbm:ingot_copper, Industrial Grade Copper
-hbm:ingot_red_copper, Minecraft Grade Copper
-hbm:ingot_advanced_alloy, Advanced Alloy Ingot
+hbm:ingot_copper, Industrial Grade Copper Ingot
+hbm:ingot_red_copper, Minecraft Grade Copper Ingot
 hbm:ingot_tungsten, Tungsten Ingot
 hbm:ingot_aluminium, Aluminium Ingot
 hbm:ingot_beryllium, Beryllium Ingot
@@ -6383,7 +7230,6 @@ hbm:powder_copper, Copper Powder
 hbm:powder_beryllium, Beryllium Powder
 hbm:powder_aluminium, Aluminium Powder
 hbm:powder_lead, Lead Powder
-hbm:powder_advanced_alloy, Advanced Alloy Powder
 hbm:powder_combine_steel, CMB Steel Powder
 hbm:powder_tcalloy, Technetium Steel Powder
 hbm:powder_cdalloy, Cadmium Steel Powder
@@ -6517,6 +7363,10 @@ hbm:nuclear_waste_short:4, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:5, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:6, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:7, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:8, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:9, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:10, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:11, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:0, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:1, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:2, Tiny Pile of Short-Lived Nuclear Waste
@@ -6525,6 +7375,10 @@ hbm:nuclear_waste_short_tiny:4, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:5, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:6, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:7, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:8, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:9, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:10, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:11, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:0, Decayed Long-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:1, Decayed Long-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:2, Decayed Long-Lived Nuclear Waste
@@ -6543,6 +7397,10 @@ hbm:nuclear_waste_short_depleted:4, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:5, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:6, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:7, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:8, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:9, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:10, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:11, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:0, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:1, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:2, Tiny Pile of Decayed Short-Lived Nuclear Waste
@@ -6551,6 +7409,10 @@ hbm:nuclear_waste_short_depleted_tiny:4, Tiny Pile of Decayed Short-Lived Nuclea
 hbm:nuclear_waste_short_depleted_tiny:5, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:6, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:7, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:8, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:9, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:10, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:11, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste, Nuclear Waste
 hbm:nuclear_waste_tiny, Tiny Pile of Nuclear Waste
 hbm:nuclear_waste_vitrified, Vitrified Nuclear Waste
@@ -6860,7 +7722,6 @@ hbm:scraps:1401, Asbestos Scraps
 hbm:scraps:7699, Osmiridium Scraps
 hbm:scraps:30, Steel Scraps
 hbm:scraps:31, Minecraft Grade Copper Scraps
-hbm:scraps:32, Advanced Alloy Scraps
 hbm:scraps:33, High-Speed Steel Scraps
 hbm:scraps:42, Desh Scraps
 hbm:scraps:35, Starmetal Scraps
@@ -6879,6 +7740,18 @@ hbm:scraps:44, Poisonous Mud Scraps
 hbm:scraps:49, Gunmetal Scraps
 hbm:scraps:50, Weapon Steel Scraps
 hbm:scraps:34, Saturnite Scraps
+hbm:scraps:2800, Nickel Scraps
+hbm:scraps:3100, Gallium Scraps
+hbm:scraps:3000, Zinc Scraps
+hbm:scraps:7200, Hafnium Scraps
+hbm:scraps:2993, Conglomerate Scraps
+hbm:scraps:7700, Iridium Scraps
+hbm:scraps:13800, Australium Scraps
+hbm:scraps:13895, Tasmanite Scraps
+hbm:scraps:13851, Ayerite Scraps
+hbm:scraps:24000, Gallium Arsenide Scraps
+hbm:scraps:24001, Stainless Steel Scraps
+hbm:scraps:24002, hbmmat.richmagma Scraps
 hbm:shell:2200, Titanium Shell
 hbm:shell:2900, Copper Shell
 hbm:shell:1300, Aluminium Shell
@@ -6898,6 +7771,7 @@ hbm:ingot_raw:501, Borax Ingot
 hbm:ingot_raw:1100, Sodium Ingot
 hbm:ingot_raw:3800, Strontium Ingot
 hbm:ingot_raw:41, Slag Ingot
+hbm:ingot_raw:7700, Iridium Ingot
 hbm:plate_cast:2600, Cast Iron Plate
 hbm:plate_cast:7900, Cast Gold Plate
 hbm:plate_cast:12626, Cast Schrabidium Plate
@@ -6910,7 +7784,6 @@ hbm:plate_cast:8200, Cast Lead Plate
 hbm:plate_cast:4000, Cast Zirconium Plate
 hbm:plate_cast:7699, Cast Osmiridium Plate
 hbm:plate_cast:30, Cast Steel Plate
-hbm:plate_cast:32, Cast Advanced Alloy Plate
 hbm:plate_cast:33, Cast High-Speed Steel Plate
 hbm:plate_cast:42, Cast Desh Plate
 hbm:plate_cast:35, Cast Starmetal Plate
@@ -6922,6 +7795,7 @@ hbm:plate_cast:47, Cast Arsenic Bronze Plate
 hbm:plate_cast:39, Cast Combine Steel Plate
 hbm:plate_cast:50, Cast Weapon Steel Plate
 hbm:plate_cast:34, Cast Saturnite Plate
+hbm:plate_cast:24001, Cast Stainless Steel Plate
 hbm:plate_welded:2600, Welded Iron Plate
 hbm:plate_welded:2200, Welded Titanium Plate
 hbm:plate_welded:2900, Welded Copper Plate
@@ -6933,6 +7807,7 @@ hbm:plate_welded:30, Welded Steel Plate
 hbm:plate_welded:36, Welded Technetium Steel Plate
 hbm:plate_welded:43, Welded Cadmium Steel Plate
 hbm:plate_welded:39, Welded Combine Steel Plate
+hbm:plate_welded:24001, Welded Stainless Steel Plate
 hbm:wire_fine:699, Carbon Wire
 hbm:wire_fine:7900, Gold Wire
 hbm:wire_fine:12626, Schrabidium Wire
@@ -6943,8 +7818,8 @@ hbm:wire_fine:8200, Lead Wire
 hbm:wire_fine:4000, Zirconium Wire
 hbm:wire_fine:30, Steel Wire
 hbm:wire_fine:31, Minecraft Grade Copper Wire
-hbm:wire_fine:32, Advanced Alloy Wire
 hbm:wire_fine:38, Magnetized Tungsten Wire
+hbm:wire_fine:3000, Zinc Wire
 hbm:wire_dense:7900, Dense Gold Wire
 hbm:wire_dense:12626, Dense Schrabidium Wire
 hbm:wire_dense:12600, Dense Ferric Schrabidate Wire
@@ -6954,7 +7829,6 @@ hbm:wire_dense:7400, Dense Tungsten Wire
 hbm:wire_dense:6000, Dense Neodymium Wire
 hbm:wire_dense:4100, Dense Niobium Wire
 hbm:wire_dense:31, Dense Minecraft Grade Copper Wire
-hbm:wire_dense:32, Dense Advanced Alloy Wire
 hbm:wire_dense:35, Dense Starmetal Wire
 hbm:wire_dense:48, Dense BSCCO Wire
 hbm:wire_dense:38, Dense Magnetized Tungsten Wire
@@ -7034,163 +7908,70 @@ hbm:casing:3, Large Weapon Steel Casing
 hbm:casing:4, Black Powder Shotshell Casing
 hbm:casing:5, Plastic Shotshell Casing
 hbm:casing:6, Advanced Shotshell Casing
-hbm:bedrock_ore_new:0, Light Metal Bedrock Ore
-hbm:bedrock_ore_new:16, Roasted Light Metal Bedrock Ore
-hbm:bedrock_ore_new:32, Washed Light Metal Bedrock Ore
-hbm:bedrock_ore_new:48, Light Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:64, Light Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:80, Light Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:96, Light Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:112, Light Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:128, Light Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:144, Light Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:160, Light Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:176, Light Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:192, Light Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:208, Light Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:224, Light Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:240, Light Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:256, Light Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:272, Light Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:288, Light Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:304, Light Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:320, Light Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:336, Light Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:352, Light Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:368, Light Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:384, Light Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:400, Light Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:1, Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:17, Roasted Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:33, Washed Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:65, Heavy Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:81, Heavy Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:97, Heavy Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:113, Heavy Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:129, Heavy Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:145, Heavy Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:161, Heavy Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:177, Heavy Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:193, Heavy Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:209, Heavy Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:225, Heavy Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:241, Heavy Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:257, Heavy Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:273, Heavy Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:289, Heavy Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:305, Heavy Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:321, Heavy Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:337, Heavy Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:353, Heavy Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:369, Heavy Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:385, Heavy Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:401, Heavy Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:2, Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:18, Roasted Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:34, Washed Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:66, Rare Earth Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:82, Rare Earth Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:98, Rare Earth Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:114, Rare Earth Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:130, Rare Earth Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:146, Rare Earth Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:162, Rare Earth Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:178, Rare Earth Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:194, Rare Earth Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:210, Rare Earth Bedrock Ore Crumbs
-hbm:bedrock_ore_new:226, Rare Earth Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:242, Rare Earth Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:258, Rare Earth Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:274, Rare Earth Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:290, Rare Earth Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:306, Rare Earth Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:322, Rare Earth Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:338, Rare Earth Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:354, Rare Earth Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:370, Rare Earth Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:386, Rare Earth Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:402, Rare Earth Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:3, Actinide Bedrock Ore
-hbm:bedrock_ore_new:19, Roasted Actinide Bedrock Ore
-hbm:bedrock_ore_new:35, Washed Actinide Bedrock Ore
-hbm:bedrock_ore_new:51, Actinide Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:67, Actinide Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:83, Actinide Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:99, Actinide Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:115, Actinide Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:131, Actinide Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:147, Actinide Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:163, Actinide Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:179, Actinide Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:195, Actinide Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:211, Actinide Bedrock Ore Crumbs
-hbm:bedrock_ore_new:227, Actinide Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:243, Actinide Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:259, Actinide Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:275, Actinide Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:291, Actinide Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:307, Actinide Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:323, Actinide Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:339, Actinide Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:355, Actinide Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:371, Actinide Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:387, Actinide Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:403, Actinide Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:4, Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:20, Roasted Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:36, Washed Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:68, Non-Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:84, Non-Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:100, Non-Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:116, Non-Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:132, Non-Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:148, Non-Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:164, Non-Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:180, Non-Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:196, Non-Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:212, Non-Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:228, Non-Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:244, Non-Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:260, Non-Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:276, Non-Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:292, Non-Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:308, Non-Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:324, Non-Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:340, Non-Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:356, Non-Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:372, Non-Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:388, Non-Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:404, Non-Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:5, Crystalline Bedrock Ore
-hbm:bedrock_ore_new:21, Roasted Crystalline Bedrock Ore
-hbm:bedrock_ore_new:37, Washed Crystalline Bedrock Ore
-hbm:bedrock_ore_new:53, Crystalline Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:69, Crystalline Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:85, Crystalline Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:101, Crystalline Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:117, Crystalline Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:133, Crystalline Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:149, Crystalline Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:165, Crystalline Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:181, Crystalline Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:197, Crystalline Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:213, Crystalline Bedrock Ore Crumbs
-hbm:bedrock_ore_new:229, Crystalline Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:245, Crystalline Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:261, Crystalline Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:277, Crystalline Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:293, Crystalline Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:309, Crystalline Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:325, Crystalline Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:341, Crystalline Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:357, Crystalline Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:373, Crystalline Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:389, Crystalline Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:405, Crystalline Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_base, Raw Bedrock Ore
+hbm:bedrock_ore_new:6, Light Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:7, Heavy Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:8, Non-Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:9, Crystalline Bedrock Ore (Earth)
+hbm:bedrock_ore_new:10, Light Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:11, Heavy Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:12, Rare Earth Bedrock Ore (Mun)
+hbm:bedrock_ore_new:13, Non-Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:14, Crystalline Bedrock Ore (Mun)
+hbm:bedrock_ore_new:15, Light Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:16, Heavy Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:17, Rare Earth Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:18, Non-Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:19, Crystalline Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:20, Light Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:21, Heavy Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:22, Rare Earth Bedrock Ore (Duna)
+hbm:bedrock_ore_new:23, Actinide Bedrock Ore (Duna)
+hbm:bedrock_ore_new:24, Non-Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:25, Crystalline Bedrock Ore (Duna)
+hbm:bedrock_ore_new:26, Light Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:27, Heavy Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:28, Rare Earth Bedrock Ore (Moho)
+hbm:bedrock_ore_new:29, Actinide Bedrock Ore (Moho)
+hbm:bedrock_ore_new:30, Non-Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:31, Crystalline Bedrock Ore (Moho)
+hbm:bedrock_ore_new:32, Light Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:33, Heavy Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:34, Rare Earth Bedrock Ore (Dres)
+hbm:bedrock_ore_new:35, Actinide Bedrock Ore (Dres)
+hbm:bedrock_ore_new:36, Non-Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:37, Crystalline Bedrock Ore (Dres)
+hbm:bedrock_ore_new:38, Light Metal Bedrock Ore (Eve)
+hbm:bedrock_ore_new:39, Heavy Metal Bedrock Ore (Eve)
+hbm:bedrock_ore_new:40, Rare Earth Bedrock Ore (Eve)
+hbm:bedrock_ore_new:41, Actinide Bedrock Ore (Eve)
+hbm:bedrock_ore_new:42, Schrabidic Bedrock Ore (Eve)
+hbm:bedrock_ore_new:43, Crystalline Bedrock Ore (Eve)
+hbm:bedrock_ore_new:44, Light Metal Bedrock Ore (Ike)
+hbm:bedrock_ore_new:45, Heavy Metal Bedrock Ore (Ike)
+hbm:bedrock_ore_new:46, Rare Earth Bedrock Ore (Ike)
+hbm:bedrock_ore_new:47, Hazardous Waste Bedrock Ore (Ike)
+hbm:bedrock_ore_new:48, Light Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:51, Actinide Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:53, Crystalline Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:54, Light Metal Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:55, Heavy Metal Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:56, Rare Earth Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:57, Actinide Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:58, Crystalline Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:59, Plastic Bedrock Ore (Tekto)
+hbm:bedrock_ore_base:1, Raw Bedrock Ore
+hbm:bedrock_ore_base:2, Raw Bedrock Ore
+hbm:bedrock_ore_base:3, Raw Bedrock Ore
+hbm:bedrock_ore_base:4, Raw Bedrock Ore
+hbm:bedrock_ore_base:5, Raw Bedrock Ore
+hbm:bedrock_ore_base:6, Raw Bedrock Ore
+hbm:bedrock_ore_base:7, Raw Bedrock Ore
+hbm:bedrock_ore_base:8, Raw Bedrock Ore
+hbm:bedrock_ore_base:9, Raw Bedrock Ore
+hbm:bedrock_ore_base:10, Raw Bedrock Ore
 hbm:bedrock_ore_fragment:600, Coal Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:601, Lignite Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1430, Diamond Bedrock Ore Fragment
@@ -7235,6 +8016,22 @@ hbm:bedrock_ore_fragment:8001, Cinnabar Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1400, Silicon Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1401, Asbestos Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:20000, Rare Earth Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20001, Polymer Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20003, Rubber Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20005, PVC Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:5, Glowstone Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:1402, Quartz Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:1501, White Phosphorus Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:2800, Nickel Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:3100, Gallium Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:3000, Zinc Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:3500, Bromine Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:5300, Iodine Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:7200, Hafnium Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13800, Australium Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13895, Tasmanite Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13851, Ayerite Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:24003, Semtex Bedrock Ore Fragment
 hbm:chunk_ore:0, Rare Earth Ore Chunk
 hbm:chunk_ore:1, Malachite Chunk
 hbm:chunk_ore:2, Cryolite Chunk
@@ -7451,6 +8248,7 @@ hbm:coin_siege:5, Siege Coin
 hbm:coin_siege:6, Siege Coin
 hbm:coin_siege:7, Siege Coin
 hbm:coin_siege:8, Siege Coin
+hbm:coin_token, Vending Machine Token
 hbm:pudding, Pudding
 hbm:can_empty, Empty Can
 hbm:can_smart, 'Smart' Energy Drink
@@ -7477,20 +8275,20 @@ hbm:steel_pickaxe, Steel Pickaxe
 hbm:steel_axe, Steel Axe
 hbm:steel_shovel, Steel Shovel
 hbm:steel_hoe, Steel Hoe
-hbm:alloy_sword, Advanced Alloy Sword
-hbm:alloy_pickaxe, Advanced Alloy Pickaxe
-hbm:alloy_axe, Advanced Alloy Axe
-hbm:alloy_shovel, Advanced Alloy Shovel
-hbm:alloy_hoe, Advanced Alloy Hoe
+hbm:alloy_sword, Advanced Alloy Sword (LEGACY)
+hbm:alloy_pickaxe, Advanced Alloy Pickaxe (LEGACY)
+hbm:alloy_axe, Advanced Alloy Axe (LEGACY)
+hbm:alloy_shovel, Advanced Alloy Shovel (LEGACY)
+hbm:alloy_hoe, Advanced Alloy Hoe (LEGACY)
 hbm:elec_sword, Stunstick
 hbm:elec_pickaxe, Impact Drill
 hbm:elec_axe, Electric Chainsaw
 hbm:elec_shovel, Spiral Drill
-hbm:desh_sword, Worker's Alloy Sword
-hbm:desh_pickaxe, Worker's Alloy Pickaxe
-hbm:desh_axe, Worker's Alloy Axe
-hbm:desh_shovel, Worker's Alloy Shovel
-hbm:desh_hoe, Worker's Alloy Hoe
+hbm:desh_sword, Desh Sword
+hbm:desh_pickaxe, Desh Pickaxe
+hbm:desh_axe, Desh Axe
+hbm:desh_shovel, Desh Shovel
+hbm:desh_hoe, Desh Hoe
 hbm:cobalt_sword, Cobalt Sword
 hbm:cobalt_pickaxe, Cobalt Pickaxe
 hbm:cobalt_axe, Cobalt Axe
@@ -7555,7 +8353,6 @@ hbm:plate_aluminium, Aluminium Plate
 hbm:plate_gold, Gold Plate
 hbm:plate_lead, Lead Plate
 hbm:plate_steel, Steel Plate
-hbm:plate_advanced_alloy, Advanced Alloy Plate
 hbm:plate_combine_steel, CMB Steel Plate
 hbm:plate_paa, PaA Alloy Plate
 hbm:plate_saturnite, Saturnite Plate
@@ -7607,6 +8404,7 @@ hbm:siren_track:19, Siren Track
 hbm:siren_track:20, Siren Track
 hbm:fluid_identifier_multi, Multi Fluid Identifier
 hbm:ff_fluid_duct:152, Fluid Duct: Compressed Air
+hbm:ff_fluid_duct:155, Fluid Duct: Hot Air Blast
 hbm:ff_fluid_duct:1, Fluid Duct: Water
 hbm:ff_fluid_duct:60, Fluid Duct: Heavy Water
 hbm:ff_fluid_duct:125, Fluid Duct: Hot Heavy Water
@@ -7670,6 +8468,7 @@ hbm:ff_fluid_duct:15, Fluid Duct: Heating Oil
 hbm:ff_fluid_duct:96, Fluid Duct: Heavy Heating Oil
 hbm:ff_fluid_duct:16, Fluid Duct: Reclaimed Industrial Oil
 hbm:ff_fluid_duct:18, Fluid Duct: Engine Lubricant
+hbm:ff_fluid_duct:156, Fluid Duct: Flue Gas
 hbm:ff_fluid_duct:23, Fluid Duct: Natural Gas
 hbm:ff_fluid_duct:107, Fluid Duct: Coker Gas
 hbm:ff_fluid_duct:24, Fluid Duct: Petroleum Gas
@@ -7752,6 +8551,66 @@ hbm:ff_fluid_duct:132, Fluid Duct: Booster Pheromone
 hbm:ff_fluid_duct:133, Fluid Duct: Modified Booster Pheromone
 hbm:ff_fluid_duct:89, Fluid Duct: Hydrazine
 hbm:ff_fluid_duct:1000, Fluid Duct: Custom Fluid Demo
+hbm:ff_fluid_duct:4000, Fluid Duct: Oxygen-Rich Air
+hbm:ff_fluid_duct:4001, Fluid Duct: Carbon Tetrachloride
+hbm:ff_fluid_duct:4002, Fluid Duct: Chloroethane
+hbm:ff_fluid_duct:4003, Fluid Duct: Chlorinated Benzenes
+hbm:ff_fluid_duct:4004, Fluid Duct: Vinyl Chloride
+hbm:ff_fluid_duct:4005, Fluid Duct: Aqueous Copper
+hbm:ff_fluid_duct:4006, Fluid Duct: Aqueous Nickel
+hbm:ff_fluid_duct:4007, Fluid Duct: Copper Sulfate
+hbm:ff_fluid_duct:4008, Fluid Duct: Brine
+hbm:ff_fluid_duct:4009, Fluid Duct: Conglomera
+hbm:ff_fluid_duct:4010, Fluid Duct: Halide Gas
+hbm:ff_fluid_duct:4011, Fluid Duct: Light Halocarbons
+hbm:ff_fluid_duct:4012, Fluid Duct: hbmfluid.lithcarbonate
+hbm:ff_fluid_duct:4013, Fluid Duct: Tektonic Crude
+hbm:ff_fluid_duct:4014, Fluid Duct: Elbow Grease
+hbm:ff_fluid_duct:4015, Fluid Duct: N-MASS(III) Tetrahexaethanol
+hbm:ff_fluid_duct:4016, Fluid Duct: N-MASS(II) Driver Fuel
+hbm:ff_fluid_duct:4017, Fluid Duct: Scutterblood
+hbm:ff_fluid_duct:4018, Fluid Duct: Pertechnetic Acid
+hbm:ff_fluid_duct:4019, Fluid Duct: Neon Gas
+hbm:ff_fluid_duct:4020, Fluid Duct: Argon Gas
+hbm:ff_fluid_duct:4021, Fluid Duct: Krypton Gas
+hbm:ff_fluid_duct:4022, Fluid Duct: Coffee
+hbm:ff_fluid_duct:4023, Fluid Duct: Tea
+hbm:ff_fluid_duct:4024, Fluid Duct: Honey
+hbm:ff_fluid_duct:4025, Fluid Duct: Olive Oil
+hbm:ff_fluid_duct:4026, Fluid Duct: Fluorine
+hbm:ff_fluid_duct:4027, Fluid Duct: Duna Air
+hbm:ff_fluid_duct:4028, Fluid Duct: Tekto Air
+hbm:ff_fluid_duct:4029, Fluid Duct: Jool Air
+hbm:ff_fluid_duct:4030, Fluid Duct: Sarnus Air
+hbm:ff_fluid_duct:4031, Fluid Duct: Urlum Air
+hbm:ff_fluid_duct:4032, Fluid Duct: Neidon Air
+hbm:ff_fluid_duct:4033, Fluid Duct: Milk
+hbm:ff_fluid_duct:4034, Fluid Duct: Strawberry Milk
+hbm:ff_fluid_duct:4035, Fluid Duct: Eve Air
+hbm:ff_fluid_duct:4036, Fluid Duct: Potassium Permanganate Solution
+hbm:ff_fluid_duct:4037, Fluid Duct: Chloromethane
+hbm:ff_fluid_duct:4038, Fluid Duct: Methanol
+hbm:ff_fluid_duct:4039, Fluid Duct: Alkyl Bromide
+hbm:ff_fluid_duct:4040, Fluid Duct: Methylene
+hbm:ff_fluid_duct:4041, Fluid Duct: Polyethylene
+hbm:ff_fluid_duct:4042, Fluid Duct: Hydrochloric Acid
+hbm:ff_fluid_duct:4043, Fluid Duct: Ammonia
+hbm:ff_fluid_duct:4044, Fluid Duct: Blood Fuel
+hbm:ff_fluid_duct:4045, Fluid Duct: Mineral Slurry
+hbm:ff_fluid_duct:4046, Fluid Duct: Liquid Nitrogen
+hbm:ff_fluid_duct:4047, Fluid Duct: Evaporated Milk
+hbm:ff_fluid_duct:4048, Fluid Duct: Condensed Milk
+hbm:ff_fluid_duct:4049, Fluid Duct: Heavy Whipping Cream
+hbm:ff_fluid_duct:4050, Fluid Duct: Dicyanoacetylene
+hbm:ff_fluid_duct:4051, Fluid Duct: Morkite
+hbm:ff_fluid_duct:4052, Fluid Duct: Morkine
+hbm:ff_fluid_duct:4053, Fluid Duct: Morkite Slurry
+hbm:ff_fluid_duct:4055, Fluid Duct: Uranium Bromide
+hbm:ff_fluid_duct:4056, Fluid Duct: Plutonium Bromide
+hbm:ff_fluid_duct:4057, Fluid Duct: Schrabidium Bromide
+hbm:ff_fluid_duct:4058, Fluid Duct: Thorium Bromide
+hbm:ff_fluid_duct:4063, Fluid Duct: hbmfluid.gaseous_hydrogen
+hbm:ff_fluid_duct:4065, Fluid Duct: hbmfluid.lithydro
 hbm:mese_gavel, Mese Gavel
 hbm:mese_pickaxe, Mese Pickaxe
 hbm:mese_axe, Mese Axe
@@ -7846,8 +8705,6 @@ hbm:casing_44, .44 Magnum Casings
 hbm:casing_9, Small Caliber Casings
 hbm:casing_50, Large Caliber Casings
 hbm:casing_buckshot, Buckshot Casing
-hbm:coil_advanced_alloy, Super Conducting Coil
-hbm:coil_advanced_torus, Super Conducting Ring Coil
 hbm:coil_gold, Gold Coil
 hbm:coil_gold_torus, Golden Ring Coil
 hbm:coil_tungsten, Heating Coil
@@ -8313,6 +9170,15 @@ hbm:watz_pellet:8, Boron Absorber Pellet
 hbm:watz_pellet:9, Depleted Uranium Absorber Pellet
 hbm:watz_pellet:10, Enriched Naquadah Watz Pellet
 hbm:watz_pellet:11, Naquadria Watz Pellet
+hbm:watz_pellet:12, Plutonium-241 Watz Pellet
+hbm:watz_pellet:13, Americium Watz Pellet (Fuel)
+hbm:watz_pellet:14, Americium Watz Pellet (Reactor Grade)
+hbm:watz_pellet:15, Curium Watz Pellet (Reactor-Grade)
+hbm:watz_pellet:16, Curium Watz Pellet (Fuel)
+hbm:watz_pellet:17, Berkelium-247 Watz Pellet
+hbm:watz_pellet:18, Californium-251 Watz Pellet
+hbm:watz_pellet:19, Californium-252 Watz Pellet
+hbm:watz_pellet:20, Einsteinium-253 Watz Pellet
 hbm:watz_pellet_depleted:0, Schrabidium Watz Pellet (Depleted)
 hbm:watz_pellet_depleted:1, HES Watz Pellet (Depleted)
 hbm:watz_pellet_depleted:2, MES Watz Pellet (Depleted)
@@ -8325,6 +9191,15 @@ hbm:watz_pellet_depleted:8, Boron Absorber Pellet (Depleted)
 hbm:watz_pellet_depleted:9, Depleted Uranium Absorber Pellet (Depleted)
 hbm:watz_pellet_depleted:10, Enriched Naquadah Watz Pellet (Depleted)
 hbm:watz_pellet_depleted:11, Naquadria Watz Pellet (Depleted)
+hbm:watz_pellet_depleted:12, Plutonium-241 Watz Pellet (Depleted)
+hbm:watz_pellet_depleted:13, Americium Watz Pellet (Fuel) (Depleted)
+hbm:watz_pellet_depleted:14, Americium Watz Pellet (Reactor-Grade) (Depleted)
+hbm:watz_pellet_depleted:15, Curium Watz Pellet (Reactor-Grade) (Depleted)
+hbm:watz_pellet_depleted:16, Curium Watz Pellet (Fuel) (Depleted)
+hbm:watz_pellet_depleted:17, Berkelium-247 Watz Pellet (Depleted)
+hbm:watz_pellet_depleted:18, Californium-251 Watz Pellet (Depleted)
+hbm:watz_pellet_depleted:19, Californium-252 Watz Pellet (Depleted)
+hbm:watz_pellet_depleted:20, Einsteinium-253 Watz Pellet (Depleted)
 hbm:pa_coil:0, Large Gold Coil
 hbm:pa_coil:1, Large NbTi Coil
 hbm:pa_coil:2, Large BSCCO Coil
@@ -8388,6 +9263,7 @@ hbm:ams_core_eyeofharmony, Eye of Harmony (AMS/DFC Core)
 hbm:ams_core_thingy, Thingy (AMS/DFC Core)
 hbm:ams_muzzle, Ray-Emission Muzzle
 hbm:fluid_icon:152, Compressed Air
+hbm:fluid_icon:155, Hot Air Blast
 hbm:fluid_icon:1, Water
 hbm:fluid_icon:60, Heavy Water
 hbm:fluid_icon:125, Hot Heavy Water
@@ -8451,6 +9327,7 @@ hbm:fluid_icon:15, Heating Oil
 hbm:fluid_icon:96, Heavy Heating Oil
 hbm:fluid_icon:16, Reclaimed Industrial Oil
 hbm:fluid_icon:18, Engine Lubricant
+hbm:fluid_icon:156, Flue Gas
 hbm:fluid_icon:23, Natural Gas
 hbm:fluid_icon:107, Coker Gas
 hbm:fluid_icon:24, Petroleum Gas
@@ -8542,6 +9419,72 @@ hbm:fluid_icon:132, Booster Pheromone
 hbm:fluid_icon:133, Modified Booster Pheromone
 hbm:fluid_icon:89, Hydrazine
 hbm:fluid_icon:1000, hbmfluid.custom_demo
+hbm:fluid_icon:4000, Oxygen-Rich Air
+hbm:fluid_icon:4001, Carbon Tetrachloride
+hbm:fluid_icon:4002, Chloroethane
+hbm:fluid_icon:4003, Chlorinated Benzenes
+hbm:fluid_icon:4004, Vinyl Chloride
+hbm:fluid_icon:4005, Aqueous Copper
+hbm:fluid_icon:4006, Aqueous Nickel
+hbm:fluid_icon:4007, Copper Sulfate
+hbm:fluid_icon:4008, Brine
+hbm:fluid_icon:4009, Conglomera
+hbm:fluid_icon:4010, Halide Gas
+hbm:fluid_icon:4011, Light Halocarbons
+hbm:fluid_icon:4012, hbmfluid.lithcarbonate
+hbm:fluid_icon:4013, Tektonic Crude
+hbm:fluid_icon:4014, Elbow Grease
+hbm:fluid_icon:4015, N-MASS(III) Tetrahexaethanol
+hbm:fluid_icon:4016, N-MASS(II) Driver Fuel
+hbm:fluid_icon:4017, Scutterblood
+hbm:fluid_icon:4018, Pertechnetic Acid
+hbm:fluid_icon:4019, Neon Gas
+hbm:fluid_icon:4020, Argon Gas
+hbm:fluid_icon:4021, Krypton Gas
+hbm:fluid_icon:4022, Coffee
+hbm:fluid_icon:4023, Tea
+hbm:fluid_icon:4024, Honey
+hbm:fluid_icon:4025, Olive Oil
+hbm:fluid_icon:4026, Fluorine
+hbm:fluid_icon:4027, Duna Air
+hbm:fluid_icon:4028, Tekto Air
+hbm:fluid_icon:4029, Jool Air
+hbm:fluid_icon:4030, Sarnus Air
+hbm:fluid_icon:4031, Urlum Air
+hbm:fluid_icon:4032, Neidon Air
+hbm:fluid_icon:4033, Milk
+hbm:fluid_icon:4034, Strawberry Milk
+hbm:fluid_icon:4035, Eve Air
+hbm:fluid_icon:4036, Potassium Permanganate Solution
+hbm:fluid_icon:4037, Chloromethane
+hbm:fluid_icon:4038, Methanol
+hbm:fluid_icon:4039, Alkyl Bromide
+hbm:fluid_icon:4040, Methylene
+hbm:fluid_icon:4041, Polyethylene
+hbm:fluid_icon:4042, Hydrochloric Acid
+hbm:fluid_icon:4043, Ammonia
+hbm:fluid_icon:4044, Blood Fuel
+hbm:fluid_icon:4045, Mineral Slurry
+hbm:fluid_icon:4046, Liquid Nitrogen
+hbm:fluid_icon:4047, Evaporated Milk
+hbm:fluid_icon:4048, Condensed Milk
+hbm:fluid_icon:4049, Heavy Whipping Cream
+hbm:fluid_icon:4050, Dicyanoacetylene
+hbm:fluid_icon:4051, Morkite
+hbm:fluid_icon:4052, Morkine
+hbm:fluid_icon:4053, Morkite Slurry
+hbm:fluid_icon:4054, Superheated Hydrogen
+hbm:fluid_icon:4055, Uranium Bromide
+hbm:fluid_icon:4056, Plutonium Bromide
+hbm:fluid_icon:4057, Schrabidium Bromide
+hbm:fluid_icon:4058, Thorium Bromide
+hbm:fluid_icon:4059, Gaseous Uranium Bromide
+hbm:fluid_icon:4060, Gaseous Plutonium Bromide
+hbm:fluid_icon:4061, Gaseous Schrabidium Bromide
+hbm:fluid_icon:4062, Gaseous Thorium Bromide
+hbm:fluid_icon:4063, hbmfluid.gaseous_hydrogen
+hbm:fluid_icon:4064, Gaseous Poisonous Mud
+hbm:fluid_icon:4065, hbmfluid.lithydro
 hbm:gadget_explosive, First Generation Explosive Lens
 hbm:gadget_explosive8, Bundle of First Generation Implosion Propellant
 hbm:gadget_wireing, Wiring
@@ -8704,129 +9647,6 @@ hbm:fuel_tank_medium, Medium Fuel Tank
 hbm:fuel_tank_large, Large Fuel Tank
 hbm:tank_steel, Steel Tank
 hbm:mike_deut, Deuterium Tank
-hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
-hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
-hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
-hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
-hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
-hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
-hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
-hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
-hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
-hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
-hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
-hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
-hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
-hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
-hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
-hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
-hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
-hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
-hbm:mp_stability_10_flat, Size 10 Flat Fins
-hbm:mp_stability_10_cruise, Size 10 Cruise Fins
-hbm:mp_stability_10_space, Size 10 Space Fins
-hbm:mp_stability_15_flat, Size 15 Flat Fins
-hbm:mp_stability_15_thin, Size 15 Thin Fins
-hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
-hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
-hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
-hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
-hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
-hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
-hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
-hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
-hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
-hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
-hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
-hbm:mp_warhead_10_he, Size 10 HE Warhead
-hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
-hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
-hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
-hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
-hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
-hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
-hbm:mp_warhead_15_he, Size 15 HE Warhead
-hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
-hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
-hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
-hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
-hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
-hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
-hbm:mp_warhead_15_n2, Size 15 N² Mine
-hbm:mp_warhead_15_balefire, Size 15 BF Warhead
-hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
-hbm:mp_warhead_15_turbine, Size 15 Jet Engine
-hbm:mp_c_1, Tier 1 Missile Targeting Circuit
-hbm:mp_c_2, Tier 2 Missile Targeting Circuit
-hbm:mp_c_3, Tier 3 Missile Targeting Circuit
-hbm:mp_c_4, Tier 4 Missile Targeting Circuit
-hbm:mp_c_5, Tier 5 Missile Targeting Circuit
 hbm:missile_skin_camo, Missile Skin: Camo
 hbm:missile_skin_desert, Missile Skin: Desert Camo
 hbm:missile_skin_flames, Missile Skin: Sick Flames
@@ -9150,12 +9970,15 @@ hbm:gun_autoshotgun_shredder, Shredder
 hbm:gun_autoshotgun_sexy, Sexy
 hbm:gun_flaregun, Flare Gun
 hbm:gun_congolake, Congo Lake
+hbm:gun_mk108, Grenade Machinegun
 hbm:gun_carbine, Carbine
 hbm:gun_minigun, Minigun
 hbm:gun_minigun_lacunae, Lacunae
 hbm:gun_minigun_dual, Dual Miniguns
 hbm:gun_mas36, South Star
 hbm:gun_am180, .22 Submachine Gun
+hbm:gun_star_f, Target Pistol
+hbm:gun_star_f_akimbo, Target Pistols
 hbm:gun_flamer, Flamethrower
 hbm:gun_flamer_topaz, Mister Topaz
 hbm:gun_flamer_daybreaker, Daybreaker

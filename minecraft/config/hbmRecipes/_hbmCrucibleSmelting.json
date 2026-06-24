@@ -26,6 +26,10 @@
       "output": [["WeaponSteel",36]]
     },
     {
+      "input": ["item","hbmspace:stone_resource",1,1],
+      "output": [["Flux",864]]
+    },
+    {
       "input": ["item","hbm:stamp_obsidian_flat"],
       "output": [["Obsidian",216]]
     },
@@ -44,10 +48,6 @@
     {
       "input": ["item","hbm:chunk_ore",1,2],
       "output": [["Aluminum",72],["Sodium",72]]
-    },
-    {
-      "input": ["item","hbm:blades_advanced_alloy"],
-      "output": [["AdvancedAlloy",288]]
     },
     {
       "input": ["item","hbm:stamp_titanium_flat"],
@@ -76,6 +76,10 @@
     {
       "input": ["item","hbm:powder_ash"],
       "output": [["Carbon",8]]
+    },
+    {
+      "input": ["item","hbm:ring_starmetal"],
+      "output": [["Starmetal",288]]
     },
     {
       "input": ["item","hbm:powder_ash",1,2],
@@ -138,6 +142,10 @@
       "output": [["Hematite",72]]
     },
     {
+      "input": ["dict","oreConglomerate"],
+      "output": [["Conglomerate",288]]
+    },
+    {
       "input": ["dict","oreThorium232"],
       "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
     },
@@ -164,6 +172,10 @@
     {
       "input": ["dict","oreCobalt"],
       "output": [["Cobalt",72],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreZinc"],
+      "output": [["Zinc",144],["Stone",162]]
     },
     {
       "input": ["dict","cobblestone"],

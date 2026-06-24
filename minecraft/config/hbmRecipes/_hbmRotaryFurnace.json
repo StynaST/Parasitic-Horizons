@@ -58,7 +58,7 @@
     {
       "inputs": [
         ["dict","ingotCopper",3],
-        ["dict","ingotAluminum"]
+        ["dict","ingotZinc"]
       ],
       "output": ["GunMetal",288],
       "duration": 200,

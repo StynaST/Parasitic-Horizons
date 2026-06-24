@@ -1,6 +1,36 @@
 {
   "recipes": [
     {
+      "input": ["WATER",2000],
+      "output1": ["HYDROGEN",200],
+      "output2": ["OXYGEN",200],
+      "duration": 10
+    },
+    {
+      "input": ["POTASSIUM_CHLORIDE",250],
+      "output1": ["CHLORINE",125],
+      "output2": ["NONE",0],
+      "byproducts": [
+        ["hbm:dust"]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["HCL",1000],
+      "output1": ["HYDROGEN",500],
+      "output2": ["CHLORINE",500],
+      "duration": 40
+    },
+    {
+      "input": ["LITHCARBONATE",1000],
+      "output1": ["OXYGEN",30],
+      "output2": ["CARBONDIOXIDE",10],
+      "byproducts": [
+        ["hbm:powder_lithium"]
+      ],
+      "duration": 40
+    },
+    {
       "input": ["VITRIOL",1000],
       "output1": ["SULFURIC_ACID",500],
       "output2": ["CHLORINE",500],
@@ -17,38 +47,6 @@
       "duration": 20
     },
     {
-      "input": ["SLOP",1000],
-      "output1": ["MERCURY",250],
-      "output2": ["NONE",0],
-      "byproducts": [
-        ["hbm:niter",2],
-        ["hbm:powder_limestone",2],
-        ["hbm:sulfur"]
-      ],
-      "duration": 20
-    },
-    {
-      "input": ["WATER",2000],
-      "output1": ["HYDROGEN",200],
-      "output2": ["OXYGEN",200],
-      "duration": 10
-    },
-    {
-      "input": ["POTASSIUM_CHLORIDE",250],
-      "output1": ["CHLORINE",125],
-      "output2": ["NONE",0],
-      "byproducts": [
-        ["hbm:dust"]
-      ],
-      "duration": 20
-    },
-    {
-      "input": ["HEAVYWATER",2000],
-      "output1": ["DEUTERIUM",200],
-      "output2": ["OXYGEN",200],
-      "duration": 10
-    },
-    {
       "input": ["REDMUD",450],
       "output1": ["MERCURY",150],
       "output2": ["LYE",50],
@@ -60,6 +58,28 @@
       "duration": 20
     },
     {
+      "input": ["SLOP",1000],
+      "output1": ["MERCURY",250],
+      "output2": ["NONE",0],
+      "byproducts": [
+        ["hbm:niter",2],
+        ["hbm:powder_limestone",2],
+        ["hbm:sulfur"]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["AQUEOUS_NICKEL",300],
+      "output1": ["NONE",0],
+      "output2": ["NONE",0],
+      "byproducts": [
+        ["hbmspace:powder_nickel",2],
+        ["hbm:powder_iron",2],
+        ["hbm:sulfur",4]
+      ],
+      "duration": 40
+    },
+    {
       "input": ["ALUMINA",200],
       "output1": ["CARBONDIOXIDE",100],
       "output2": ["NONE",0],
@@ -68,6 +88,31 @@
         ["hbm:fluorite",2]
       ],
       "duration": 40
+    },
+    {
+      "input": ["COPPERSULFATE",200],
+      "output1": ["NONE",0],
+      "output2": ["OXYGEN",50],
+      "byproducts": [
+        ["hbm:powder_copper",2],
+        ["hbm:sulfur",2]
+      ],
+      "duration": 40
+    },
+    {
+      "input": ["BRINE",400],
+      "output1": ["HYDROGEN",200],
+      "output2": ["OXYGEN",200],
+      "byproducts": [
+        ["hbm:powder_sodium",2]
+      ],
+      "duration": 40
+    },
+    {
+      "input": ["HEAVYWATER",2000],
+      "output1": ["DEUTERIUM",200],
+      "output2": ["OXYGEN",200],
+      "duration": 10
     }
   ]
 }

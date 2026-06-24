@@ -2,26 +2,6 @@
   "recipes": [
     {
       "inputs": [
-        ["dict","plateIron",2],
-        ["item","hbm:coil_copper"],
-        ["item","hbm:coil_copper_torus"]
-      ],
-      "output": ["hbm:motor",2],
-      "duration": 100,
-      "consumption": 200
-    },
-    {
-      "inputs": [
-        ["dict","plateSteel"],
-        ["item","hbm:coil_copper"],
-        ["item","hbm:coil_copper_torus"]
-      ],
-      "output": ["hbm:motor",2],
-      "duration": 100,
-      "consumption": 400
-    },
-    {
-      "inputs": [
         ["dict","plateSteel",2],
         ["dict","wireDenseMingrade",2]
       ],
@@ -73,14 +53,6 @@
         ["dict","wireFineMingrade",8]
       ],
       "output": ["hbm:wire_dense",1,31],
-      "duration": 100,
-      "consumption": 10000
-    },
-    {
-      "inputs": [
-        ["dict","wireFineAdvancedAlloy",8]
-      ],
-      "output": ["hbm:wire_dense",1,32],
       "duration": 100,
       "consumption": 10000
     },
@@ -469,6 +441,85 @@
       "output": ["hbm:sat_resonator"],
       "duration": 600,
       "consumption": 50000
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleStainlessSteel",2]
+      ],
+      "output": ["hbm:plate_welded",1,24001],
+      "duration": 250,
+      "consumption": 20000
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleTungsten",2],
+        ["item","hbmspace:plate_stainless",6],
+        ["item","hbm:arc_electrode"]
+      ],
+      "fluid": ["ARGON",1000],
+      "output": ["hbmspace:machine_xenon_thruster"],
+      "duration": 200,
+      "consumption": 50000
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleStainlessSteel"],
+        ["item","hbm:seg_20",2],
+        ["dict","shellTitanium"]
+      ],
+      "output": ["hbmspace:rp_f_20_1"],
+      "duration": 100,
+      "consumption": 20000
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleStainlessSteel"],
+        ["item","hbmspace:rp_f_20_1"],
+        ["dict","shellTitanium",2]
+      ],
+      "output": ["hbmspace:rp_f_20_3"],
+      "duration": 150,
+      "consumption": 30000
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleStainlessSteel",2],
+        ["item","hbmspace:rp_f_20_3"],
+        ["dict","shellTitanium",3]
+      ],
+      "output": ["hbmspace:rp_f_20_6"],
+      "duration": 200,
+      "consumption": 50000
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleStainlessSteel",4],
+        ["item","hbmspace:rp_f_20_6"],
+        ["dict","shellTitanium",6]
+      ],
+      "fluid": ["OXYGEN",500],
+      "output": ["hbmspace:rp_f_20_12"],
+      "duration": 250,
+      "consumption": 60000
+    },
+    {
+      "inputs": [
+        ["dict","plateCMBSteel",2],
+        ["dict","ingotUranium238"]
+      ],
+      "fluid": ["NEON",2000],
+      "output": ["hbmspace:insert_cmb"],
+      "duration": 600,
+      "consumption": 50000
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleAluminum",2],
+        ["item","hbmspace:circuit",2,1]
+      ],
+      "output": ["hbmspace:circuit",1,2],
+      "duration": 250,
+      "consumption": 25000
     }
   ]
 }

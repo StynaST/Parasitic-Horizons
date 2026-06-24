@@ -50,6 +50,14 @@
       "output": ["ENDERJUICE",100]
     },
     {
+      "input": ["item","hbmspace:dry_ice"],
+      "output": ["CARBONDIOXIDE",1000]
+    },
+    {
+      "input": ["dict","cobblestone"],
+      "output": ["LAVA",250]
+    },
+    {
       "input": ["dict","dustSodium"],
       "output": ["SODIUM",100]
     },
@@ -64,6 +72,10 @@
     {
       "input": ["dict","dustLead"],
       "output": ["LEAD",100]
+    },
+    {
+      "input": ["item","hbm:ingot_osmiridium"],
+      "output": ["ETHANOL",24000]
     },
     {
       "input": ["dict","gemCoal"],
@@ -92,6 +104,10 @@
     {
       "input": ["item","minecraft:double_plant"],
       "output": ["SUNFLOWEROIL",100]
+    },
+    {
+      "input": ["dict","stone"],
+      "output": ["LAVA",250]
     },
     {
       "input": ["item","hbm:pellet_charged"],
@@ -127,11 +143,15 @@
     },
     {
       "input": ["item","minecraft:packed_ice"],
-      "output": ["WATER",1000]
+      "output": ["WATER",2000]
     },
     {
       "input": ["item","hbm:ore_oil_sand"],
       "output": ["BITUMEN",100]
+    },
+    {
+      "input": ["item","hbmspace:flesh"],
+      "output": ["BLOOD",100]
     }
   ]
 }

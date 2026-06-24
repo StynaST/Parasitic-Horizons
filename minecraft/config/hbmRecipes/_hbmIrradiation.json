@@ -6,6 +6,11 @@
       "fusionOnly": false
     },
     {
+      "input": ["dict","dustBismuth"],
+      "solidOutput": ["hbm:powder_polonium"],
+      "fusionOnly": false
+    },
+    {
       "input": ["dict","ingotThorium232"],
       "solidOutput": ["hbm:ingot_thorium_fuel"],
       "fusionOnly": false
@@ -13,6 +18,11 @@
     {
       "input": ["item","hbm:oil_tar",1,4],
       "fluidOutput": ["RADIOSOLVENT",100],
+      "fusionOnly": false
+    },
+    {
+      "input": ["dict","dustCobalt"],
+      "solidOutput": ["hbm:powder_co60"],
       "fusionOnly": false
     },
     {
@@ -28,6 +38,11 @@
     {
       "input": ["item","hbm:oil_tar",1,2],
       "fluidOutput": ["COALOIL",100],
+      "fusionOnly": false
+    },
+    {
+      "input": ["dict","nuggetBismuth"],
+      "solidOutput": ["hbm:nugget_polonium"],
       "fusionOnly": false
     },
     {
@@ -58,6 +73,11 @@
       "fusionOnly": false
     },
     {
+      "input": ["dict","ingotBismuth"],
+      "solidOutput": ["hbm:ingot_polonium"],
+      "fusionOnly": false
+    },
+    {
       "input": ["item","minecraft:mushroom_stew"],
       "solidOutput": ["hbm:glowing_stew"],
       "fusionOnly": false
@@ -65,6 +85,11 @@
     {
       "input": ["dict","dustTinyLithium"],
       "fluidOutput": ["TRITIUM",100],
+      "fusionOnly": false
+    },
+    {
+      "input": ["dict","ingotCobalt"],
+      "solidOutput": ["hbm:ingot_co60"],
       "fusionOnly": false
     },
     {
@@ -81,6 +106,11 @@
     {
       "input": ["dict","dustLithium"],
       "fluidOutput": ["TRITIUM",1000],
+      "fusionOnly": false
+    },
+    {
+      "input": ["dict","nuggetCobalt"],
+      "solidOutput": ["hbm:nugget_co60"],
       "fusionOnly": false
     },
     {

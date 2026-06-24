@@ -1,0 +1,41 @@
+{
+  "recipes": [
+    {
+      "wafer": [
+        ["item","hbm:circuit",4,5]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",1,3],
+        ["item","hbm:circuit",2,1]
+      ],
+      "output": ["hbmspace:circuit",1,4],
+      "duration": 200,
+      "consumption": 250
+    },
+    {
+      "wafer": [
+        ["item","hbmspace:circuit",1,7]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",1,8],
+        ["item","hbm:circuit",2,1]
+      ],
+      "output": ["hbmspace:circuit",1,5],
+      "duration": 400,
+      "consumption": 1000
+    },
+    {
+      "wafer": [
+        ["item","hbmspace:circuit",2,7],
+        ["item","hbmspace:circuit",1,8]
+      ],
+      "pcb": [
+        ["item","hbm:circuit",1,9],
+        ["item","hbmspace:circuit",2,3]
+      ],
+      "output": ["hbmspace:circuit",1,6],
+      "duration": 800,
+      "consumption": 25000
+    }
+  ]
+}

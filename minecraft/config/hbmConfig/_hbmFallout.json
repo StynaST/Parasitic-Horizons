@@ -188,7 +188,7 @@
       "maximumDistancePercent": 5.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -305,7 +305,7 @@
       "maximumDistancePercent": 10.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -422,7 +422,7 @@
       "maximumDistancePercent": 15.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -539,7 +539,7 @@
       "maximumDistancePercent": 20.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -656,7 +656,7 @@
       "maximumDistancePercent": 25.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -757,7 +757,7 @@
       "maximumDistancePercent": 30.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -858,7 +858,7 @@
       "maximumDistancePercent": 35.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -959,7 +959,7 @@
       "maximumDistancePercent": 40.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -1060,7 +1060,7 @@
       "maximumDistancePercent": 45.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,
@@ -1161,7 +1161,7 @@
       "maximumDistancePercent": 50.0
     },
     {
-      "matchesBlock": "hbm:ore_bedrock_oil[]",
+      "matchesBlock": "minecraft:air[meta=0]",
       "matchesState": false,
       "mustBeOpaque": true,
       "restrictDepth": true,

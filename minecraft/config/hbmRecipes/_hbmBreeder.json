@@ -126,6 +126,11 @@
       "output": ["hbm:rod_quad",1,10]
     },
     {
+      "input": ["item","hbmspace:lattice_log"],
+      "flux": 4000,
+      "output": ["hbmspace:woodemium_briquette"]
+    },
+    {
       "input": ["item","hbm:rod_dual",1,2],
       "flux": 200,
       "output": ["hbm:rod_dual",1,3]
