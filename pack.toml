@@ -1,0 +1,13 @@
+name = "Parasitic Horizons"
+author = "StynaST, Elibikerdude"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e7b3371ca48e9a601977a3fbe61be51cae0f1d6039cf3d8087b60e3f8a820889"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+name = "SRP-Info"
+filename = "srp-info-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a73b72f0744d73f283340db44a32a78fa22f8af8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7654573
+project-id = 1467468

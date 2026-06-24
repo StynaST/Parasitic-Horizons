@@ -1,0 +1,13 @@
+name = "HBM's Nuclear Tech Mod: Community Edition"
+filename = "NTM-CE-1.12.2-2.1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d5a32b1ef5d93457894cd6c75e066b6873bba79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7627848
+project-id = 1312314
