@@ -353,8 +353,8 @@ hash = "a8fe077fcd4e3b3e93109ecf3e1207e14d21e13fdbc41daa2a285fce873e3d4f"
 metafile = true
 
 [[files]]
-file = "mods/scape-and-run-parasites.pw.toml"
-hash = "22f9b48895a3bd668b40a46a1d81d85239b3a5b8a8acdcc69b92a7fda6233b9a"
+file = "mods/scapeandrunparasites.pw.toml"
+hash = "3768bf8c7d54adfaf658610221f92f83bdba8959adbd5f83d82353a51a40a5a6"
 metafile = true
 
 [[files]]
