@@ -11,7 +11,3 @@ hash = "e1480f41893a3eac09835198a880d2462eaa89ebd22c5257f1ae35cddfe7398835fd8b3f
 [update.modrinth]
 mod-id = "58d5Rm2F"
 version = "FeARGLGL"
-
-[update.curseforge]
-file-id = 2691542
-project-id = 245480

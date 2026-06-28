@@ -11,7 +11,3 @@ hash = "2a72aa558da9a214e209bd7d8903aa9cbc7e9d54665097b2770ae9cb4113f101ff52d04b
 [update.modrinth]
 mod-id = "Wnxd13zP"
 version = "nZvGITpT"
-
-[update.curseforge]
-file-id = 2666198
-project-id = 256717

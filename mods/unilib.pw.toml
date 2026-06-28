@@ -11,7 +11,3 @@ hash = "18b381ae2e95cfac2207ca5e6fc832c15fee6ea9807becaac7643a06a5a5f123d73ea544
 [update.modrinth]
 mod-id = "nT86WUER"
 version = "uTDaGwk5"
-
-[update.curseforge]
-file-id = 7704156
-project-id = 1056812

@@ -11,7 +11,3 @@ hash = "61c6d6061a9a4ddeccaa24bdafb1bfa16ff8982daae30436cb19e88ab1e79608e347efde
 [update.modrinth]
 mod-id = "GJaDRTrb"
 version = "mkViescX"
-
-[update.curseforge]
-file-id = 7925117
-project-id = 687577
