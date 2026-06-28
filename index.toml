@@ -253,11 +253,6 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "55cfc051c3eb23bc13cdd809c400511f18f4a4d9bd304bd1636aac9e72432d88"
-metafile = true
-
-[[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
@@ -385,11 +380,6 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "c7c06b09aba460534e1cb12ae3388fba0910f52f16ee4bc4719fce82d0bd9f34"
-metafile = true
-
-[[files]]
-file = "mods/unilib.pw.toml"
-hash = "50b52c2f1617363c40a1c25890cb39e3e0d3ea8915e1e57f276cec042d06782b"
 metafile = true
 
 [[files]]
