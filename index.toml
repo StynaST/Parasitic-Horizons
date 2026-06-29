@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/srp-info.pw.toml"
-hash = "7e198245b675e4ab7544fbf45f4e4a9858f307d5f35959f118a430ecf5ae651d"
+hash = "85f8aa459014335370416bf36bf59c64d7c337d44db6847084987938fcddccbc"
 metafile = true
 
 [[files]]
